@@ -1,22 +1,40 @@
 package nltk.util;
 
+import java.util.LinkedList;
+import java.util.Queue;
+
+import javax.management.Query;
 import javax.sound.midi.Sequence;
 
 import nltk.probability.FreqDist;
 
 public class nltk_util {
-	public static String[][] ngrams(String sequence[],int window_size,
+	public static String[][] ngrams(String sequence[],int n,
 			boolean pad_left,boolean pad_right,
 			String left_pad_symbol,String right_pad_symbol){
 
 		
 		//pad_sequence
-		System.out.print(sequence.length +",");
-		sequence = pad_sequence(sequence, window_size, pad_left, pad_right, left_pad_symbol, right_pad_symbol) ;
-		System.out.println(sequence.length);
-		String history[][] = new String[sequence.length + (pad_left?1:0) + (pad_right?1:0)][window_size];
+		sequence = pad_sequence(sequence, n, pad_left, pad_right, left_pad_symbol, right_pad_symbol) ;
 		
-		return new String[1][1];
+		
+		String history[][] = new String[sequence.length - n + 1][n];
+		LinkedList<String> list = new LinkedList<>();
+		int ptr=0;
+		while (n > 1) {
+			list.add(sequence[ptr++]);
+			n--;
+		}
+		
+		
+		for (int i = 0; ptr + i < sequence.length ; i++) {
+			list.add(sequence[ptr + i]);
+			history[i] = list.toArray(new String[list.size()]);
+			list.removeFirst();
+		}
+		
+		
+		return history;
 	}
 	
 	public static String[] pad_sequence(String sequence[],int  n,
@@ -45,7 +63,4 @@ public class nltk_util {
 	}
 	
 	
-	private void pad_sequence(){
-		
-	}
 }

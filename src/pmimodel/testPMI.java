@@ -47,6 +47,17 @@ public class testPMI {
 			e.printStackTrace();
 			System.out.println(e.getMessage());
 		}
+		 System.out.println("output ...");
+		 for(Object i[] :finder.score_ngrams(new BigramAssocMeasures())){
+			 	String s1= String.format("%-20s",((String[])(i[0]))[0] ); 
+			 	String s2= String.format("%-20s",((String[])(i[0]))[1] );
+			 	String s3= String.format("%-20f\n",(double)(i[1])  ); 
+			    output.write(s1+s2+s3);
+			    //output.write(i[0][0]+" "+i[0][1]+" "+str(i[1])+'\n')
+		 }
+		 System.out.println("done");
+		 
+		 
 	}
 
 }
