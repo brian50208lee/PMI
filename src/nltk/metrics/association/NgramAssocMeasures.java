@@ -8,13 +8,14 @@ public class NgramAssocMeasures {
 	int TOTAL = -1;
 	int UNIGRRAMS = -2;
     public double pmi(int[] marginals){
-    	int maxIdx = marginals.length -1;
+    	int maxIdx = marginals.length ;
     	
     	ArrayList<Integer> subMargine = new ArrayList<>();
-    	for (int i = maxIdx + UNIGRRAMS; i >=0 ; i--) subMargine.add(marginals[i]);
- 
+    	for (int i = maxIdx + UNIGRRAMS; i >0 ; i--) subMargine.add(marginals[i]);
     	
-        return _log2(marginals[maxIdx+NGRAM] * Math.pow( marginals[maxIdx+TOTAL], _n - 1) ) -
+    	
+    	
+        return _log2(marginals[NGRAM] * Math.pow( marginals[maxIdx+TOTAL], _n - 1) ) -
         		_log2(_product(subMargine));
     }
     private double _log2(double value){

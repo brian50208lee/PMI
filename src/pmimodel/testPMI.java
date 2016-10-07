@@ -6,8 +6,6 @@ import java.io.File;
 import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
-import java.util.Arrays;
-import java.util.function.IntFunction;
 
 import nltk.collocations.BigramCollocationFinder;
 import nltk.metrics.association.BigramAssocMeasures;
@@ -23,13 +21,15 @@ public class testPMI {
 		
 		for(String f : new File(path).list()){
 			BufferedReader file = new BufferedReader(new FileReader(new File(path+"/"+f)));
-			String lines[] =file.lines().toArray(String[]::new);
+			
+			Object lines[] =file.lines().toArray();
 			
 			for (int i=0 ; i<lines.length;i++) {
-				String txt=lines[i].replace("\n","");
+				String txt=((String)lines[i]).replace("\n","");
 				for( int j=i+1; j<lines.length;j++){
-					if( txt.equals(lines[j].replace("\n","")) );
-						alltxt.append(txt+" "+ lines[j].replace("\n","")+"\n");
+					if( !txt.equals(((String)lines[j]).replace("\n","")) ){
+						alltxt.append(txt+" "+ ((String)lines[j]).replace("\n","")+"\n");
+					}
 				}
 			}
 		}
@@ -38,7 +38,8 @@ public class testPMI {
 		
 		 bigram_measures= new BigramAssocMeasures();
 		 
-		 //System.out.println(nltk_tokenize.word_tokenize(alltxt.toString())[10]);
+		// System.out.println(nltk_tokenize.word_tokenize(alltxt.toString()).length);
+
 		 
 		 BigramCollocationFinder finder=null;
 		 try {
@@ -49,12 +50,17 @@ public class testPMI {
 		}
 		 System.out.println("output ...");
 		 for(Object i[] :finder.score_ngrams(new BigramAssocMeasures())){
-			 	String s1= String.format("%-20s",((String[])(i[0]))[0] ); 
-			 	String s2= String.format("%-20s",((String[])(i[0]))[1] );
-			 	String s3= String.format("%-20f\n",(double)(i[1])  ); 
+			 	String s1= String.format("%s ",((String[])(i[0]))[0] ); 
+			 	String s2= String.format("%s ",((String[])(i[0]))[1] );
+			 	String s3= String.format("%f\n",(double)(i[1])  ); 
+			 	//System.out.println(s1+s2+s3);
 			    output.write(s1+s2+s3);
+			    output.flush();
 			    //output.write(i[0][0]+" "+i[0][1]+" "+str(i[1])+'\n')
 		 }
+		 
+		 //output.write(alltxt.toString());
+		 //output.flush();
 		 System.out.println("done");
 		 
 		 

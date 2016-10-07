@@ -7,7 +7,6 @@ public class nltk_tokenize {
 		 * 
 		 * just slit String to Array by "space"
 		 */
-		
 		return str.split(" |\n");
 	}
 }

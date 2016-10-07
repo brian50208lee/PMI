@@ -16,6 +16,7 @@ public abstract class AbstractCollocationFinder {
 		this.N=word_fd.N();
 	}
 	private ArrayList<Object[]> _score_ngrams(NgramAssocMeasures score_fn){
+		
 		ArrayList<Object[]> result =new ArrayList<Object[]>();
 		for( String tup :ngram_fd.keySet()){
 			String tupArr[] = tup.split(",");
