@@ -52,7 +52,7 @@ public class testPMI {
 		 for(Object i[] :finder.score_ngrams(new BigramAssocMeasures())){
 			 	String s1= String.format("%s ",((String[])(i[0]))[0] ); 
 			 	String s2= String.format("%s ",((String[])(i[0]))[1] );
-			 	String s3= String.format("%f\n",(double)(i[1])  ); 
+			 	String s3= String.format("%.10f\n",(double)(i[1])  ); 
 			 	//System.out.println(s1+s2+s3);
 			    output.write(s1+s2+s3);
 			    output.flush();

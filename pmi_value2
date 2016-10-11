@@ -28,6 +28,7 @@ spherical geometry 14.2489592147
 dough flour 14.2198128691
 fan tansy 14.2198128691
 flour dough 14.2198128691
+predicting biopsy 14.2198128691
 tansy fan 14.2198128691
 wholesale wholesales 14.2198128691
 wholesales wholesale 14.2198128691
@@ -43,7 +44,6 @@ quotation simple 13.6937440574
 simple quotation 13.6937440574
 objects tangible 13.4713516361
 tangible objects 13.4713516361
-welfare weapon 13.3718159625
 fruit lemon 13.2787065581
 fruit orange 13.2787065581
 lemon fruit 13.2787065581
@@ -137,6 +137,7 @@ adventure urbana 12.4713516361
 cola tangible 12.4713516361
 tangible cola 12.4713516361
 urbana adventure 12.4713516361
+elf weapon 12.3718159625
 quotation quote 12.3718159625
 quotation sample 12.3718159625
 quotation symbol 12.3718159625
@@ -254,7 +255,6 @@ daylight saving 11.5384658319
 irishcoffeemixerycola irish 11.523819056
 mixery irish 11.523819056
 mixerycola irish 11.523819056
-welfare messe 11.4713516361
 oven microwave 11.4486315596
 complex stock 11.412457947
 stock complex 11.412457947
@@ -313,7 +313,6 @@ availability recomendation 11.0498878676
 contactema accident 11.0498878676
 precision accuracy 11.0498878676
 recomendation availability 11.0498878676
-sample weapon 11.0498878676
 funding projectile 11.0434900964
 comedy comedyfilmfantacyfilm 11.0307790447
 comedy fantacy 11.0307790447
@@ -524,7 +523,6 @@ future current 10.3718159625
 future movement 10.3718159625
 linguistic media 10.3718159625
 media expression 10.3718159625
-media figure 10.3718159625
 movement future 10.3718159625
 portable portabledvdplayermpplayer 10.3718159625
 portabledvdplayermpplayer portable 10.3718159625
@@ -614,7 +612,6 @@ accuracy port 10.2198128691
 land land 10.2198128691
 market market 10.2198128691
 port accuracy 10.2198128691
-ports sports 10.2045650954
 breakfast bed 10.1900655257
 abstract information 10.1580366715
 information abstract 10.1580366715
@@ -638,6 +635,7 @@ pill ultra 10.0563141368
 sensor pill 10.0563141368
 sound pill 10.0563141368
 ultra pill 10.0563141368
+media icon 10.0498878676
 media video 10.0498878676
 destruction funding 10.0434900964
 funding destruction 10.0434900964
@@ -652,7 +650,6 @@ prices mpplayerdvdplayer 10.0339463238
 sunrise twilight 10.0307790447
 twilight sunrise 10.0307790447
 ballistic missile 10.0272516712
-retail retails 10.0236064385
 retails retail 10.0236064385
 cup spatial 10.0119200174
 sensor spatial 10.0119200174
@@ -704,6 +701,7 @@ equipment check 9.90947274848
 room check 9.90947274848
 flight lift 9.88638913536
 lift flight 9.88638913536
+retail retails 9.88610291474
 cd player 9.88067548417
 acceptance answer 9.87782712186
 answer acceptance 9.87782712186
@@ -713,6 +711,7 @@ calculate sunset 9.85057905942
 sunset calculate 9.85057905942
 location photograph 9.84407833051
 photograph location 9.84407833051
+magazine bread 9.84130124584
 cup messe 9.83392171547
 cup modul 9.83392171547
 messe cup 9.83392171547
@@ -736,6 +735,7 @@ small paper 9.8095493058
 story paper 9.8095493058
 carriage contact 9.78952759611
 contact carriage 9.78952759611
+ports sports 9.78952759611
 sports ports 9.78952759611
 aps report 9.78685346181
 report aps 9.78685346181
@@ -887,7 +887,6 @@ modul flip 9.47135163609
 modul light 9.47135163609
 red messe 9.47135163609
 red modul 9.47135163609
-magazine butter 9.46278962258
 park activity 9.46278962258
 funding elf 9.45852759573
 funding powered 9.45852759573
@@ -1047,6 +1046,7 @@ matched bounding 9.17367108745
 matched box 9.17367108745
 matched parser 9.17367108745
 parser matched 9.17367108745
+store butter 9.16968436286
 comedy film 9.16897633862
 cd mpplayercdplayermicrowaveoven 9.15630992678
 places populated 9.15458524631
@@ -1209,13 +1209,11 @@ select ema 9.04828576305
 accept plan 9.02840814024
 healing accept 9.02840814024
 plan accept 9.02840814024
-map icon 9.02604112569
 finder slr 9.01817900792
 finder window 9.01817900792
 slr finder 9.01817900792
 viewer finder 9.01817900792
 window finder 9.01817900792
-food prepared 9.01539388149
 messe spatial 9.01192001745
 modul spatial 9.01192001745
 spatial messe 9.01192001745
@@ -1256,6 +1254,7 @@ park hiking 8.96683212792
 gazetteer width 8.96582360286
 whiskey liquid 8.96582360286
 width gazetteer 8.96582360286
+food prepared 8.96094609747
 prepared food 8.96094609747
 article articles 8.95677846326
 article ia 8.95677846326
@@ -1267,7 +1266,6 @@ kip article 8.95677846326
 wi article 8.95677846326
 organizations ports 8.94778968003
 ports organizations 8.94778968003
-store butter 8.94729194152
 directions start 8.94331620345
 driving start 8.94331620345
 start directions 8.94331620345
@@ -1942,6 +1940,7 @@ object union 8.63846162192
 union object 8.63846162192
 fellow higher 8.63184788021
 higher fellow 8.63184788021
+quality obtainable 8.63124813169
 grocery butter 8.6189088245
 cd microwave 8.61574154542
 microwave cd 8.61574154542
@@ -1962,11 +1961,14 @@ professor higher 8.59337373239
 change entity 8.56904830997
 dvd mpplayerportabledvdplayer 8.56904830997
 entity change 8.56904830997
+entity internal 8.56904830997
 internal entity 8.56904830997
 mpplayerportabledvdplayer dvd 8.56904830997
 lecturer senior 8.56446104048
 senior lecturer 8.56446104048
+missile weapon 8.56446104048
 weapon missile 8.56446104048
+centred surfing 8.55988831069
 learning surfing 8.55988831069
 surfing centred 8.55988831069
 surfing learning 8.55988831069
@@ -1982,6 +1984,7 @@ span file 8.55078610358
 span format 8.55078610358
 consists selected 8.54174096398
 selected consists 8.54174096398
+map door 8.54061429852
 map render 8.54061429852
 map source 8.54061429852
 render map 8.54061429852
@@ -2002,7 +2005,6 @@ accomodation geographical 8.50611705425
 centred destination 8.50611705425
 destination centred 8.50611705425
 destination learning 8.50611705425
-dollar mpplayerportabledvdplayer 8.50611705425
 learning destination 8.50611705425
 region accomodation 8.50611705425
 award funding 8.49916958023
@@ -2015,7 +2017,6 @@ hiking rea 8.49734684462
 hiking urbana 8.49734684462
 rea hiking 8.49734684462
 urbana hiking 8.49734684462
-designed avocado 8.49407171259
 contract employment 8.49407171259
 contract job 8.49407171259
 employment contract 8.49407171259
@@ -2096,6 +2097,7 @@ cup contact 8.44160429269
 sensor contact 8.44160429269
 sound contact 8.44160429269
 ultra contact 8.44160429269
+player cd 8.44010289278
 dvd mpplayerdvdplayer 8.43976529303
 mpplayerdvdplayer dvd 8.43976529303
 accident authorization 8.4332165072
@@ -2200,7 +2202,6 @@ flight select 8.38388879484
 select flight 8.38388879484
 activity hiking 8.3818696272
 hiking activity 8.3818696272
-change reference 8.3798532816
 retail store 8.37245365808
 retails store 8.37245365808
 store retail 8.37245365808
@@ -2233,7 +2234,6 @@ contact arrival 8.35414145144
 holds past 8.35389405454
 past holds 8.35389405454
 sports rural 8.34895500473
-skilled internal 8.34403280602
 financing funding 8.34305037831
 sandwich grocery 8.34206861914
 departure provide 8.33795251067
@@ -2247,7 +2247,6 @@ image standard 8.3361920528
 mm image 8.3361920528
 standard image 8.3361920528
 degree unilateral 8.3361920528
-player cd 8.33318768887
 acceptance ambulance 8.33033932656
 acceptance authorize 8.33033932656
 activity rural 8.33033932656
@@ -2278,7 +2277,6 @@ hospital predicting 8.32742184318
 large publisher 8.32742184318
 publisher large 8.32742184318
 store biscuit 8.32580356478
-store bread 8.32580356478
 fiction genre 8.32196741308
 retail sandwich 8.32160451658
 retails sandwich 8.32160451658
@@ -2326,7 +2324,6 @@ chosen physician 8.27870655814
 physician chosen 8.27870655814
 accept ema 8.27776760917
 ema accept 8.27776760917
-genre science 8.27616372347
 house published 8.27589154254
 published house 8.27589154254
 published publishing 8.27589154254
@@ -2344,6 +2341,7 @@ interval ambulance 8.2581895408
 interval authorize 8.2581895408
 govermentorganization ballistic 8.25633874511
 store sandwich 8.25541423689
+retail romantic 8.25449032072
 entity recorded 8.24712021509
 recorded entity 8.24712021509
 dvd portabledvdplayermpplayer 8.24712021509
@@ -2368,6 +2366,7 @@ beverage quantity 8.23431243878
 meat quantity 8.23431243878
 digital sensors 8.23249200316
 sensors digital 8.23249200316
+genre science 8.22885800869
 provide transports 8.22659140172
 transports provide 8.22659140172
 chosen gps 8.22342412264
@@ -2491,6 +2490,7 @@ ogle span 8.11338079127
 span ogle 8.11338079127
 accept arrival 8.11087030043
 destination surfing 8.10922690168
+hiking surfing 8.10045669205
 ambulance authorization 8.09217958936
 authorization ambulance 8.09217958936
 authorization authorize 8.09217958936
@@ -2601,7 +2601,6 @@ dvd mp 8.02472779375
 dvd mpplayer 8.02472779375
 mp dvd 8.02472779375
 mpplayer dvd 8.02472779375
-player hipping 8.02269448904
 finder viewer 8.01817900792
 butter retail 8.01348222122
 butter retails 8.01348222122
@@ -2640,7 +2639,6 @@ interval authorizephysician 7.98255509819
 acknowledgement selected 7.9810260095
 selected acknowledgement 7.9810260095
 high film 7.97949853976
-missile weapon 7.97949853976
 required treatment 7.97949853976
 treatment required 7.97949853976
 surfing town 7.97492580997
@@ -2673,7 +2671,6 @@ accident physician 7.95677846326
 contactema physician 7.95677846326
 physician accident 7.95677846326
 physician contactema 7.95677846326
-town breadth 7.95677846326
 mp mpplayercdplayermicrowaveoven 7.95302632839
 mpplayer mpplayercdplayermicrowaveoven 7.95302632839
 mpplayercdplayermicrowaveoven mp 7.95302632839
@@ -2685,7 +2682,6 @@ codes radius 7.95152820257
 nearby codes 7.95152820257
 radius codes 7.95152820257
 fiction science 7.9503521941
-hiking surfing 7.94845359861
 authorization authorized 7.94778968003
 authorized authorization 7.94778968003
 contract employee 7.94778968003
@@ -2746,6 +2742,7 @@ cdplayermpplayer player 7.88067548417
 formatted place 7.88067548417
 mpplayerportabledvdplayer player 7.88067548417
 place formatted 7.88067548417
+player mpplayerportabledvdplayer 7.88067548417
 player microwave 7.88067548417
 desired provide 7.87474772893
 provide desired 7.87474772893
@@ -2769,6 +2766,7 @@ story sightseeing 7.84546888005
 arrow location 7.84407833051
 figure location 7.84407833051
 location arrow 7.84407833051
+location figure 7.84407833051
 hospital summary 7.84199501601
 cached ogle 7.84130124584
 categories ogle 7.84130124584
@@ -2841,7 +2839,6 @@ compact euro 7.82200990723
 distance places 7.82200990723
 euro compact 7.82200990723
 places distance 7.82200990723
-player mp 7.82178179512
 player mpplayer 7.82178179512
 authorization authorizephysician 7.81654514675
 authorizephysician authorization 7.81654514675
@@ -2887,6 +2884,7 @@ urban activity 7.77091191794
 worldwide saving 7.77091191794
 center language 7.77091191794
 language center 7.77091191794
+missile funding 7.76664989109
 committing size 7.76497896219
 size committing 7.76497896219
 digital file 7.76300671986
@@ -2920,6 +2918,7 @@ category desired 7.75318574905
 desired category 7.75318574905
 mpplayerdvdplayer player 7.75139246723
 player mpplayerdvdplayer 7.75139246723
+player mp 7.75139246723
 directions language 7.74537682584
 driving language 7.74537682584
 easting language 7.74537682584
@@ -2938,6 +2937,7 @@ hospital recomendation 7.74245934246
 recomendation hospital 7.74245934246
 biscuit store 7.74084106406
 bread store 7.74084106406
+store bread 7.74084106406
 consists flight 7.73438604192
 flight consists 7.73438604192
 drugs treatment 7.72795977276
@@ -2957,7 +2957,6 @@ arrival authorize 7.72092378211
 accept activity 7.72028584487
 academia centred 7.71901081603
 academia learning 7.71901081603
-centred academia 7.71901081603
 learning academia 7.71901081603
 density user 7.71201822889
 ebookorder user 7.71201822889
@@ -2998,7 +2997,6 @@ quantity grocery 7.68999192256
 national sightseeing 7.68874337636
 license sunset 7.68708032714
 sunset license 7.68708032714
-drinks max 7.68562673
 max drinks 7.68562673
 digital easting 7.68500420786
 digital mapping 7.68500420786
@@ -3079,7 +3077,6 @@ county check 7.66154523503
 tore compact 7.66154523503
 authorized records 7.65117267367
 records authorized 7.65117267367
-missile funding 7.65117267367
 checkroom hospital 7.64934993806
 equipment hospital 7.64934993806
 hospital checkroom 7.64934993806
@@ -3088,11 +3085,13 @@ hospital room 7.64934993806
 hospital selected 7.64934993806
 room hospital 7.64934993806
 selected hospital 7.64934993806
+dollar hipping 7.64813605912
 dollar shipping 7.64813605912
 hipping dollar 7.64813605912
 interval accept 7.64813605912
 shipping dollar 7.64813605912
 giving ballistic 7.64752950244
+thing avocado 7.645711361
 treatment drug 7.64389550797
 ambulance healing 7.63846162192
 ambulance plan 7.63846162192
@@ -3146,8 +3145,8 @@ interval arrival 7.61129929094
 coordinates digital 7.61100362641
 digital coordinates 7.61100362641
 prepared market 7.61100362641
-giving lending 7.61100362641
 hipping player 7.60765698976
+player hipping 7.60765698976
 player shipping 7.60765698976
 shipping player 7.60765698976
 cpr euro 7.60628121617
@@ -3191,12 +3190,10 @@ fellow vice 7.58812650278
 university fellow 7.58812650278
 vice fellow 7.58812650278
 scholarship land 7.58754465359
-player dvd 7.58605473528
 doctor medical 7.58405847781
 insurance records 7.58405847781
 records health 7.58405847781
 national hiking 7.57980900481
-medium size 7.57735195902
 prepared dollar 7.57537971668
 ebookorder titled 7.57249835954
 ebookorder written 7.57249835954
@@ -3236,7 +3233,6 @@ parser map 7.54061429852
 exp flight 7.54061429852
 flight exp 7.54061429852
 obtainable title 7.53892594837
-title obtainable 7.53892594837
 title vhsdvd 7.53892594837
 vhsdvd title 7.53892594837
 formatted key 7.53723957174
@@ -3293,6 +3289,7 @@ article ed 7.49734684462
 ed article 7.49734684462
 list selected 7.49734684462
 selected list 7.49734684462
+player dvd 7.49294533089
 grocery tea 7.48645852848
 acknowledgement records 7.48277514197
 records acknowledgement 7.48277514197
@@ -3343,6 +3340,7 @@ land national 7.45427812273
 card credit 7.45357109255
 category list 7.45295272526
 list category 7.45295272526
+medium size 7.45182107693
 bearing information 7.450217423
 information bearing 7.450217423
 arrow city 7.45004112984
@@ -3410,6 +3408,7 @@ license calculate 7.41245794703
 grocery biscuit 7.41245794703
 grocery bread 7.41245794703
 lending award 7.41245794703
+finder calendar 7.41245794703
 mp microwave 7.41245794703
 mpplayer microwave 7.41245794703
 oven mp 7.41245794703
@@ -3443,7 +3442,6 @@ drugs records 7.39963390667
 records drugs 7.39963390667
 geographic geometry 7.39810265406
 spherical geographic 7.39810265406
-airport door 7.39453603903
 authorized treatment 7.39453603903
 treatment authorized 7.39453603903
 edited full 7.39199384447
@@ -3550,6 +3548,7 @@ gps update 7.32725993363
 update gps 7.32725993363
 genre fiction 7.32196741308
 science genre 7.32196741308
+degree lending 7.32169248311
 park accommodation 7.31773928978
 drug records 7.31556964189
 records drug 7.31556964189
@@ -3823,6 +3822,7 @@ university academia 7.2378841263
 vice academia 7.2378841263
 records required 7.23613517439
 required records 7.23613517439
+hospital investigating 7.23431243878
 investigating hospital 7.23431243878
 information object 7.23203725295
 object information 7.23203725295
@@ -3938,7 +3938,6 @@ quantity retail 7.18410099283
 quantity retails 7.18410099283
 retail quantity 7.18410099283
 retails quantity 7.18410099283
-quality media 7.18378915472
 player prices 7.18023576603
 prices player 7.18023576603
 govermentorganization min 7.17979719024
@@ -4012,6 +4011,7 @@ map pixel 7.15157200778
 pixel map 7.15157200778
 calendar capturing 7.1494235412
 capturing calendar 7.1494235412
+ports breadth 7.1494235412
 missile lending 7.1494235412
 accommodation activity 7.14781428834
 activity accommodation 7.14781428834
@@ -4072,8 +4072,6 @@ image objects 7.11379963147
 objects image 7.11379963147
 zip zipcode 7.11329703782
 zipcode zip 7.11329703782
-giving funding 7.11275275889
-pea person 7.11128841231
 arrival accept 7.11087030043
 author committing 7.11003444001
 committing author 7.11003444001
@@ -4192,9 +4190,11 @@ supports technology 7.04928686991
 technology builds 7.04928686991
 technology method 7.04928686991
 technology supports 7.04928686991
-cycle euro 7.04828576305
+genre euro 7.04828576305
 region corporations 7.04668543561
 media quality 7.04628563097
+quality film 7.04628563097
+quality media 7.04628563097
 gps transport 7.04462096985
 transport gps 7.04462096985
 accommodation luxury 7.04344576653
@@ -4209,12 +4209,10 @@ category diagnosis 7.03791522598
 diagnosis category 7.03791522598
 location yahoo 7.03672340845
 yahoo location 7.03672340845
-location door 7.03672340845
 center ogle 7.03394632378
 ogle center 7.03394632378
 transport update 7.0338142149
 update transport 7.0338142149
-degree lending 7.03218586591
 airport atm 7.03196595965
 atm airport 7.03196595965
 cost healing 7.02840814024
@@ -4353,7 +4351,6 @@ url suggestion 7.00568806374
 url tips 7.00568806374
 diagnosis treatment 7.00549374829
 treatment diagnosis 7.00549374829
-scholarship weapon 7.00258215287
 results start 7.00141915801
 start results 7.00141915801
 gps required 7.00103170131
@@ -4411,7 +4408,6 @@ formatted code 6.9810260095
 isbn publication 6.97923433409
 publication isbn 6.97923433409
 film quality 6.97589630308
-quality film 6.97589630308
 maps path 6.97473559373
 markers path 6.97473559373
 path maps 6.97473559373
@@ -4442,6 +4438,7 @@ sunset zone 6.96110551689
 publication publisher 6.96005077753
 publisher publication 6.96005077753
 degree academic 6.95969501538
+pea country 6.9590344372
 matched ogle 6.95865819647
 ogle matched 6.95865819647
 image language 6.95768042955
@@ -4481,7 +4478,6 @@ publication ware 6.94555120783
 software publication 6.94555120783
 ware publication 6.94555120783
 published publication 6.94555120783
-region geographical 6.94298091598
 car fast 6.94060691619
 fast car 6.94060691619
 authorization password 6.93638491676
@@ -4502,6 +4498,7 @@ works employment 6.93219282498
 works job 6.93219282498
 works senior 6.93219282498
 accommodation national 6.93071616667
+region geographical 6.92992476315
 camera shutter 6.9284579587
 shutter camera 6.9284579587
 maps width 6.92629523867
@@ -4538,7 +4535,6 @@ insurance treatment 6.9123843439
 treatment health 6.9123843439
 digital ogle 6.91056390827
 ogle digital 6.91056390827
-account credit 6.89989835866
 key license 6.89980965113
 license key 6.89980965113
 car report 6.8987867405
@@ -4610,7 +4606,6 @@ stop camera 6.88149033595
 stop shutter 6.88149033595
 journal place 6.88067548417
 place journal 6.88067548417
-player mpplayerportabledvdplayer 6.88067548417
 oven player 6.88067548417
 player oven 6.88067548417
 calculator airport 6.87996286621
@@ -4650,6 +4645,7 @@ coordinates path 6.86226086447
 degree edited 6.86226086447
 edited degree 6.86226086447
 path coordinates 6.86226086447
+account credit 6.86142421085
 park surfing 6.85944859255
 academic unilateral 6.85454026933
 car cheap 6.85148102572
@@ -7000,7 +6996,6 @@ hotel accommodation 6.77447608034
 desired transport 6.77077980906
 transport desired 6.77077980906
 account material 6.76744806264
-account printed 6.76744806264
 material account 6.76744806264
 printed account 6.76744806264
 money wheeled 6.76079116523
@@ -7123,6 +7118,7 @@ land quantity 6.68999192256
 grocery quantity 6.68999192256
 flight list 6.68999192256
 euro food 6.68874337636
+drinks max 6.68562673
 max cola 6.68562673
 calculator latitude 6.68375996885
 calculator longitude 6.68375996885
@@ -7183,7 +7179,6 @@ book ebookorder 6.65330211323
 ebookorder book 6.65330211323
 ogle results 6.65147668696
 results ogle 6.65147668696
-hospital investigating 6.64934993806
 accept interval 6.64813605912
 medium review 6.64813605912
 review medium 6.64813605912
@@ -7275,11 +7270,9 @@ car expensive 6.61303225816
 expensive car 6.61303225816
 authorization drug 6.61218664824
 drug authorization 6.61218664824
-steps missile 6.61190820288
 code sunset 6.61179219984
 places code 6.61179219984
 sunset code 6.61179219984
-finder small 6.61100362641
 appellation gender 6.60979203497
 gender appellation 6.60979203497
 desired diagnosis 6.6011826556
@@ -7327,6 +7320,7 @@ password acknowledgement 6.57730382345
 short short 6.57723506115
 arrival flight 6.57653387278
 flight arrival 6.57653387278
+dollar prepared 6.57537971668
 account chosen 6.5748029847
 chosen account 6.5748029847
 account flight 6.5748029847
@@ -7386,17 +7380,19 @@ minute cites 6.54179732035
 month cites 6.54179732035
 latitude longitude 6.54002449139
 longitude latitude 6.54002449139
+comedy media 6.53892594837
 title media 6.53892594837
 video title 6.53892594837
 digit key 6.53723957174
 key digit 6.53723957174
+degree funding 6.53393499839
 titled book 6.5314301097
 written book 6.5314301097
 interval healing 6.52883713075
 interval plan 6.52883713075
 min missile 6.52444536163
+steps missile 6.52444536163
 units missile 6.52444536163
-projectile entails 6.52437575868
 holds season 6.52381905598
 past season 6.52381905598
 season holds 6.52381905598
@@ -7641,12 +7637,13 @@ author medium 6.42490777736
 medium author 6.42490777736
 data sightseeing 6.42305939212
 sightseeing data 6.42305939212
+cola max 6.42259232417
 latitude twilight 6.42072556302
 longitude twilight 6.42072556302
 twilight latitude 6.42072556302
 twilight longitude 6.42072556302
 digit zipcode 6.42072556302
-title film 6.41962702
+dollar euro 6.418654213
 digital map 6.41723188302
 map digital 6.41723188302
 booking book 6.41626291593
@@ -7655,7 +7652,6 @@ min cell 6.41426244388
 steps cell 6.41426244388
 units cell 6.41426244388
 calendar finder 6.41245794703
-finder calendar 6.41245794703
 microwave mp 6.41245794703
 microwave mpplayer 6.41245794703
 mp oven 6.41245794703
@@ -7716,6 +7712,7 @@ physician treatment 6.37181596253
 treatment physician 6.37181596253
 cites reference 6.37086449837
 reference cites 6.37086449837
+title film 6.36900094693
 publication reference 6.36862602618
 reference publication 6.36862602618
 key thumbnail 6.3673145703
@@ -7728,7 +7725,6 @@ code kilometer 6.36631616539
 contact acknowledgement 6.36631616539
 fiction fiction 6.36538969338
 science science 6.36538969338
-degree funding 6.36400999694
 authorization healing 6.36282717931
 authorization plan 6.36282717931
 healing authorization 6.36282717931
@@ -7742,6 +7738,7 @@ longitude accuracy 6.36183187396
 rating park 6.3601745561
 monograph credit 6.35587441867
 government welfare 6.3542651658
+welfare government 6.3542651658
 flight account 6.35241056336
 hot user 6.34944814951
 incident user 6.34944814951
@@ -7753,7 +7750,6 @@ user incident 6.34944814951
 user incidents 6.34944814951
 user spots 6.34944814951
 user traffic 6.34944814951
-village investigating 6.34796922058
 geographic corner 6.34747658099
 geographic northwest 6.34747658099
 geographic southeast 6.34747658099
@@ -8210,6 +8206,7 @@ upc search 6.24138840365
 monograph publisher 6.23431243878
 publisher monograph 6.23431243878
 letter date 6.23158264603
+projectile date 6.23158264603
 drugs password 6.23112818232
 password drugs 6.23112818232
 account exp 6.22902814786
@@ -8409,6 +8406,7 @@ code key 6.11402814102
 cola image 6.11379963147
 information list 6.11364255214
 list information 6.11364255214
+giving funding 6.11275275889
 corporations entity 6.10961669134
 entity corporations 6.10961669134
 entity warm 6.10961669134
@@ -8416,7 +8414,6 @@ researcher visited 6.1087815567
 researcher visiting 6.1087815567
 visited researcher 6.1087815567
 visiting researcher 6.1087815567
-headed surfing 6.10867719886
 compact store 6.10857284856
 store compact 6.10857284856
 messe zone 6.10794690522
@@ -8435,7 +8432,6 @@ list flight 6.10502942184
 plan diagnosis 6.10502942184
 distance start 6.10378087564
 start distance 6.10378087564
-cola max 6.10066422928
 missile max 6.10066422928
 object digital 6.10004170714
 title comedy 6.09835335698
@@ -8458,6 +8454,7 @@ quantity prepared 6.08118267989
 populated zipcode 6.08087556013
 zipcode populated 6.08087556013
 span profession 6.0804661688
+missile missile 6.07903421331
 professor works 6.07658273431
 works professor 6.07658273431
 arrival arrival 6.07403353225
@@ -8490,10 +8487,10 @@ hiking data 6.05109061473
 digital matched 6.05028867194
 matched digital 6.05028867194
 area adventure 6.05022186349
+cycle euro 6.04828576305
 distance width 6.04828576305
 euro cycle 6.04828576305
 euro genre 6.04828576305
-genre euro 6.04828576305
 width distance 6.04828576305
 front warm 6.04731392398
 code postal 6.04691394516
@@ -8570,7 +8567,6 @@ license latitude 6.00568806374
 license longitude 6.00568806374
 longitude digit 6.00568806374
 longitude license 6.00568806374
-steps funding 6.0034744176
 health password 6.00051525418
 password insurance 6.00051525418
 destination provide 5.99832241405
@@ -8845,6 +8841,7 @@ generic sender 5.92629523867
 message generic 5.92629523867
 recipient generic 5.92629523867
 sender generic 5.92629523867
+rea data 5.92555973265
 banker street 5.9244571762
 fast owned 5.9244571762
 owned fast 5.9244571762
@@ -8865,12 +8862,12 @@ film tax 5.91772234217
 tax film 5.91772234217
 airport flights 5.91648874223
 flights airport 5.91648874223
+headed surfing 5.91603212091
 surfing headed 5.91603212091
 zone digit 5.91530182728
 gps arrival 5.91356886006
 health treatment 5.9123843439
 treatment insurance 5.9123843439
-missile missile 5.90910921186
 market thing 5.90874576683
 portabledvdplayermpplayer thing 5.90874576683
 thing portabledvdplayermpplayer 5.90874576683
@@ -8927,6 +8924,7 @@ dx mall 5.87782712186
 exposures mall 5.87782712186
 medium publisher 5.87676043417
 publisher medium 5.87676043417
+drinks unit 5.87640504679
 fiction user 5.87551696117
 zipcode airport 5.87442468266
 account flights 5.87436326656
@@ -9313,7 +9311,6 @@ taxed tea 5.77339120201
 tea taxed 5.77339120201
 intentional psychological 5.77157264387
 psychological intentional 5.77157264387
-thing romantic 5.77124224308
 identifier daylight 5.77091191794
 identifier info 5.77091191794
 info identifier 5.77091191794
@@ -9330,6 +9327,7 @@ owned full 5.76906349355
 location place 5.76797535142
 place location 5.76797535142
 account authorized 5.76744806264
+account printed 5.76744806264
 authorized account 5.76744806264
 hour reference 5.76741004446
 minute reference 5.76741004446
@@ -9518,6 +9516,7 @@ funding min 5.68154632271
 funding steps 5.68154632271
 funding units 5.68154632271
 min funding 5.68154632271
+steps funding 5.68154632271
 units funding 5.68154632271
 accommodation id 5.6799491007
 id accommodation 5.6799491007
@@ -9634,6 +9633,7 @@ sandwich taxed 5.62900129267
 taxed sandwich 5.62900129267
 headed part 5.62847753335
 part headed 5.62847753335
+headed gender 5.62455538764
 interval acknowledgement 5.62347400488
 nearby code 5.62347400488
 radius code 5.62347400488
@@ -9825,7 +9825,6 @@ check postal 5.58304326136
 postal places 5.58304326136
 password card 5.5803636232
 capturing mall 5.57826684
-dollar prepared 5.57537971668
 class whiskey 5.57350618008
 complement whiskey 5.57350618008
 content whiskey 5.57350618008
@@ -9847,7 +9846,6 @@ whiskey instance 5.57350618008
 whiskey intersection 5.57350618008
 whiskey inventory 5.57350618008
 whiskey liz 5.57350618008
-whiskey printed 5.57350618008
 whiskey union 5.57350618008
 tax video 5.57307417078
 video tax 5.57307417078
@@ -10064,6 +10062,7 @@ shopping coding 5.48550969908
 shopping colour 5.48550969908
 shopping dx 5.48550969908
 shopping exposures 5.48550969908
+higher destination 5.48374924122
 image ogle 5.48374924122
 ogle image 5.48374924122
 municipal village 5.48337034669
@@ -10279,7 +10278,6 @@ width unique 5.43530888616
 appellation headed 5.4319103097
 gender headed 5.4319103097
 headed appellation 5.4319103097
-headed gender 5.4319103097
 cpr recommended 5.43008361771
 ice recommended 5.43008361771
 portable recommended 5.43008361771
@@ -10413,6 +10411,7 @@ latitude kilometer 5.39097821962
 longitude kilometer 5.39097821962
 wheel wheeled 5.38573014166
 wheeled wheel 5.38573014166
+designed col 5.3847730701
 quality title 5.38332061824
 title quality 5.38332061824
 day linguistic 5.3818696272
@@ -10530,7 +10529,6 @@ author book 5.35807410762
 degree full 5.35636993474
 full degree 5.35636993474
 credit monograph 5.35587441867
-elf government 5.3542651658
 generic reference 5.35237254518
 reference generic 5.35237254518
 edited number 5.3519164051
@@ -10568,6 +10566,7 @@ story author 5.34922210389
 food taxed 5.34889337348
 taxed food 5.34889337348
 investigating village 5.34796922058
+village investigating 5.34796922058
 researcher village 5.34796922058
 postal results 5.34741501286
 book science 5.34731556221
@@ -10653,7 +10652,6 @@ camera shopping 5.30330636786
 shutter shopping 5.30330636786
 car euro 5.30317699558
 euro car 5.30317699558
-designed col 5.3023109099
 col company 5.30182028074
 company col 5.30182028074
 contact zone 5.30059198316
@@ -10874,6 +10872,7 @@ digital path 5.2534516218
 path digital 5.2534516218
 cola price 5.25130315522
 price cola 5.25130315522
+recommended euro 5.24951137207
 dollar taxed 5.24872921155
 taxed dollar 5.24872921155
 airport places 5.24769465071
@@ -10920,6 +10919,7 @@ location minute 5.23163509336
 location month 5.23163509336
 minute location 5.23163509336
 month location 5.23163509336
+change date 5.23158264603
 national data 5.23041431417
 geocoding location 5.22936848639
 location geocoding 5.22936848639
@@ -11187,7 +11187,6 @@ list destination 5.13979484
 latitude postal 5.13869019525
 longitude postal 5.13869019525
 accommodation entity 5.13859575831
-entity accommodation 5.13859575831
 company wheel 5.13810042882
 wheel company 5.13810042882
 geographic area 5.13796475813
@@ -11402,7 +11401,6 @@ warm geographical 5.04668543561
 romantic price 5.04668543561
 portable quality 5.04628563097
 quality portable 5.04628563097
-published cd 5.04588593709
 entity organizations 5.04548635392
 organizations entity 5.04548635392
 fast full 5.04149659739
@@ -11480,7 +11478,6 @@ text url 5.01700337696
 url text 5.01700337696
 departure credit 5.01602441578
 mpplayerportabledvdplayer recommended 5.01504611844
-recommended monograph 5.01504611844
 recommended mpplayerportabledvdplayer 5.01504611844
 degree visited 5.01426395792
 degree visiting 5.01426395792
@@ -11666,6 +11663,7 @@ phone mall 4.95377597509
 id park 4.95053031559
 location publication 4.9483282925
 publication location 4.9483282925
+entity accommodation 4.94595068037
 article publication 4.94555120783
 publication article 4.94555120783
 capital drought 4.94406082026
@@ -11712,7 +11710,6 @@ car technology 4.92793308616
 method car 4.92793308616
 supports car 4.92793308616
 technology car 4.92793308616
-recommended euro 4.92758327718
 fellow generic 4.92629523867
 generic fellow 4.92629523867
 agent current 4.92611132701
@@ -11740,6 +11737,7 @@ region postcode 4.92516761603
 region pretty 4.92516761603
 bicycle col 4.92480622792
 col bicycle 4.92480622792
+food sports 4.9244571762
 purchase short 4.9244571762
 short purchase 4.9244571762
 municipal visited 4.92225458792
@@ -11782,6 +11780,7 @@ wi max 4.90801915134
 geographic code 4.90777702747
 dvdplayermpplayer generic 4.90692991381
 generic dvdplayermpplayer 4.90692991381
+full messe 4.9065670173
 bed city 4.90572061362
 breakfast city 4.90572061362
 city bed 4.90572061362
@@ -11828,6 +11827,7 @@ address port 4.8906892728
 investigating address 4.8906892728
 port address 4.8906892728
 dvd recommended 4.89035037099
+recommended dvd 4.89035037099
 city luxury 4.89034538773
 luxury city 4.89034538773
 headed organizations 4.88889599098
@@ -11844,6 +11844,7 @@ organization mercantile 4.88710493545
 object academia 4.88612080187
 fine quantity 4.88607608447
 quantity fine 4.88607608447
+recommended mp 4.88576310149
 academic academic 4.88570120081
 airport consists 4.87996286621
 consists airport 4.87996286621
@@ -11869,7 +11870,7 @@ senior educational 4.86834354482
 interval diagnostic 4.86707788077
 flight number 4.86648957793
 number flight 4.86648957793
-issued country 4.86622968808
+municipal unit 4.86646680974
 geographical street 4.86611318997
 region street 4.86611318997
 street geographical 4.86611318997
@@ -11885,7 +11886,6 @@ district geographical 4.86226086447
 district region 4.86226086447
 fan price 4.86226086447
 geographical district 4.86226086447
-predicting price 4.86226086447
 price diet 4.86226086447
 price fan 4.86226086447
 price tansy 4.86226086447
@@ -11928,6 +11928,7 @@ start user 4.84694780898
 user start 4.84694780898
 license phone 4.84686077118
 phone license 4.84686077118
+issued country 4.84660088133
 player taxed 4.84568006281
 digital distance 4.84546888005
 distance digital 4.84546888005
@@ -11975,6 +11976,7 @@ size lens 4.83536829008
 size stop 4.83536829008
 stop size 4.83536829008
 interval clinic 4.83369171228
+airport city 4.83265715143
 latitude user 4.83131715726
 longitude user 4.83131715726
 user latitude 4.83131715726
@@ -11996,7 +11998,6 @@ village employee 4.82440726452
 cola quality 4.82389320963
 quality cola 4.82389320963
 educational higher 4.82325565529
-municipal unit 4.81916109496
 employee part 4.81916109496
 part employee 4.81916109496
 cart cart 4.81893343281
@@ -12172,6 +12173,7 @@ wheel speed 4.79794159686
 fine medium 4.79531062055
 medium fine 4.79531062055
 region skilled 4.79383572346
+skilled geographical 4.79383572346
 employee street 4.79321264292
 street employee 4.79321264292
 butter max 4.79254193392
@@ -12190,7 +12192,6 @@ coffee ed 4.78860780326
 ed coffee 4.78860780326
 academia village 4.78827347847
 village academia 4.78827347847
-airport city 4.78826303207
 card diagnosis 4.78768859645
 published credit 4.78601881033
 national id 4.78589961382
@@ -12213,6 +12214,7 @@ lending data 4.7735566392
 taxed cd 4.77339120201
 code phone 4.77157264387
 romantic thing 4.77124224308
+thing romantic 4.77124224308
 daylight identifier 4.77091191794
 daylight unique 4.77091191794
 identifier saving 4.77091191794
@@ -12352,7 +12354,6 @@ supports size 4.7352316188
 technology size 4.7352316188
 mp recommended 4.73376000805
 mpplayer recommended 4.73376000805
-recommended mp 4.73376000805
 recommended mpplayer 4.73376000805
 county code 4.73309849606
 generic isbn 4.73202641825
@@ -12381,7 +12382,6 @@ address thumbnail 4.72076427136
 address vicinity 4.72076427136
 thumbnail address 4.72076427136
 vicinity address 4.72076427136
-recommended dvd 4.72042536954
 index short 4.71686175679
 page short 4.71686175679
 search short 4.71686175679
@@ -12419,12 +12419,10 @@ gps account 4.68944555064
 address employee 4.68905541163
 employee address 4.68905541163
 col thing 4.68841581195
-thing col 4.68841581195
 area blue 4.68765178411
 area town 4.68765178411
 blue area 4.68765178411
 short publisher 4.6874179789
-skilled geographical 4.68692051954
 author cites 4.68600815751
 cites author 4.68600815751
 records interval 4.68593809183
@@ -12478,7 +12476,7 @@ entity future 4.66215771436
 entity video 4.66215771436
 future entity 4.66215771436
 video entity 4.66215771436
-comedy max 4.66009163789
+medium person 4.6606270033
 ema telephone 4.66001517333
 telephone ema 4.66001517333
 article code 4.65909791462
@@ -12557,6 +12555,7 @@ location fellow 4.63462496488
 warm municipal 4.63274797073
 capital country 4.62860916563
 country capital 4.62860916563
+full euro 4.62645909811
 account account 4.62578691342
 elf organization 4.62407052962
 organization elf 4.62407052962
@@ -12601,6 +12600,7 @@ government deacon 4.61729957164
 government weapon 4.61729957164
 player recommended 4.61701504446
 title credit 4.61609380889
+thing col 4.61441523051
 short size 4.61040192508
 chancellor educational 4.60960927642
 educational chancellor 4.60960927642
@@ -12628,6 +12628,7 @@ code identifier 4.60251438625
 code unique 4.60251438625
 mall film 4.6009869165
 monograph recommended 4.60000861916
+recommended monograph 4.60000861916
 media price 4.59922645864
 price media 4.59922645864
 price quotation 4.59922645864
@@ -12697,7 +12698,6 @@ employee municipal 4.56861763331
 municipal employee 4.56861763331
 id records 4.56775666548
 records id 4.56775666548
-thing cd 4.567708849
 headed person 4.56696789609
 person headed 4.56696789609
 device mm 4.56639451636
@@ -12917,6 +12917,7 @@ headed lecturer 4.50556735142
 lecturer headed 4.50556735142
 geographic identifier 4.50501785797
 geographic unique 4.50501785797
+steps monograph 4.50172528513
 location user 4.49978242259
 user location 4.49978242259
 country real 4.49960281856
@@ -12994,6 +12995,7 @@ cost authorization 4.48212610768
 fast fine 4.48043728319
 fine fast 4.48043728319
 fine food 4.48043728319
+food fine 4.48043728319
 cheap person 4.47902019681
 person cheap 4.47902019681
 car wheel 4.47821105768
@@ -13052,7 +13054,6 @@ gps interval 4.45083461875
 profession region 4.45083461875
 state cities 4.45012927373
 city digit 4.45004112984
-postal euro 4.44977673049
 publication book 4.44942977987
 map reference 4.44911594404
 reference map 4.44911594404
@@ -13089,7 +13090,6 @@ window minute 4.4422616468
 window month 4.4422616468
 research village 4.44107862497
 village research 4.44107862497
-government funding 4.440976799
 cola coffee 4.44068449984
 isbn location 4.44035614446
 location isbn 4.44035614446
@@ -13147,7 +13147,6 @@ publisher fiction 4.42053124757
 science publisher 4.42053124757
 title account 4.41998487565
 price food 4.418654213
-generic surfing 4.41693035685
 cell speed 4.41645665729
 book category 4.41626291593
 category book 4.41626291593
@@ -13269,6 +13268,7 @@ wireless price 4.3768340373
 wirelessplayerwmaplayer price 4.3768340373
 wma price 4.3768340373
 wmaplayer price 4.3768340373
+village address 4.37498943451
 calendar speed 4.3746364816
 speed calendar 4.3746364816
 country thumbnail 4.37407193648
@@ -13300,6 +13300,7 @@ issued village 4.36763920072
 village issued 4.36763920072
 address assistant 4.36712731674
 assistant address 4.36712731674
+government funding 4.36697621755
 code geocoding 4.36631616539
 geocoding code 4.36631616539
 cities id 4.36556781487
@@ -13345,6 +13346,7 @@ author house 4.35514693785
 author publishing 4.35514693785
 house author 4.35514693785
 publishing author 4.35514693785
+elf government 4.3542651658
 government elf 4.3542651658
 government powered 4.3542651658
 powered government 4.3542651658
@@ -13398,7 +13400,6 @@ wheeled owned 4.33949467548
 fiction fine 4.33908143395
 fine science 4.33908143395
 destination person 4.33869890841
-medium person 4.33869890841
 person destination 4.33869890841
 person medium 4.33869890841
 drug id 4.33808707845
@@ -13425,6 +13426,7 @@ latitude start 4.33326272177
 longitude start 4.33326272177
 start latitude 4.33326272177
 start longitude 4.33326272177
+giving government 4.33041842385
 speed thing 4.33035592004
 thing speed 4.33035592004
 id lending 4.32904193884
@@ -13457,6 +13459,7 @@ amount mercantile 4.32176579265
 mercantile amount 4.32176579265
 academia place 4.32097974206
 place academia 4.32097974206
+headed unit 4.32001169827
 comedy fine 4.319972611
 fine comedy 4.319972611
 object fine 4.319972611
@@ -13469,6 +13472,7 @@ number nearby 4.31629249537
 number radius 4.31629249537
 radius number 4.31629249537
 butter recommended 4.31460640029
+account person 4.31427543448
 dvd taxed 4.31166046728
 taxed dvd 4.31166046728
 edited family 4.31112003085
@@ -13527,7 +13531,6 @@ issued sports 4.29462440342
 sports issued 4.29462440342
 phone speed 4.29446613291
 higher street 4.29440678595
-hiking gender 4.29440678595
 short cart 4.29440678595
 street higher 4.29440678595
 bicycle thing 4.29350069918
@@ -13568,7 +13571,6 @@ entity activity 4.28364609111
 phone max 4.28352828643
 code location 4.28336337603
 address village 4.28188003012
-village address 4.28188003012
 authorized number 4.28152707721
 banker number 4.28152707721
 number authorized 4.28152707721
@@ -13611,7 +13613,6 @@ generic headed 4.26949999319
 headed generic 4.26949999319
 expensive unit 4.26872246957
 unit expensive 4.26872246957
-currency biopsy 4.26823673002
 currency deacon 4.26823673002
 currency diet 4.26823673002
 currency fan 4.26823673002
@@ -13675,7 +13676,6 @@ authorize max 4.24505413861
 max cd 4.24505413861
 calculator state 4.24367839626
 state calculator 4.24367839626
-account person 4.24027485303
 skilled part 4.23812429745
 issued street 4.23690890557
 street issued 4.23690890557
@@ -13715,7 +13715,6 @@ rigid person 4.23354416236
 shape person 4.23354416236
 district issued 4.23305658007
 issued district 4.23305658007
-headed unit 4.23254885702
 checkroom date 4.23158264603
 date checkroom 4.23158264603
 date equipment 4.23158264603
@@ -13974,7 +13973,6 @@ generic expensive 4.1357486043
 max medium 4.13542964744
 medium max 4.13542964744
 titled cd 4.13192576816
-missile government 4.13187274447
 company skilled 4.13179699972
 skilled company 4.13179699972
 location code 4.13136028259
@@ -14098,6 +14096,7 @@ story taxed 4.09058137789
 taxed paper 4.09058137789
 taxed small 4.09058137789
 fine quality 4.09036669943
+quality fine 4.09036669943
 articles number 4.08888199926
 ia number 4.08888199926
 kip number 4.08888199926
@@ -14120,7 +14119,6 @@ video price 4.08465328581
 corporations country 4.08456531928
 country corporations 4.08456531928
 country warm 4.08456531928
-recommended prepared 4.08430878087
 address level 4.08333435074
 address urban 4.08333435074
 level address 4.08333435074
@@ -14157,6 +14155,7 @@ coffee holds 4.07811442045
 coffee past 4.07811442045
 holds coffee 4.07811442045
 past coffee 4.07811442045
+lending government 4.07673119028
 distance identifier 4.07576649947
 distance unique 4.07576649947
 euro mall 4.07576649947
@@ -14174,7 +14173,6 @@ range information 4.07057383025
 academic works 4.07026896038
 works academic 4.07026896038
 higher municipal 4.06981177634
-municipal blended 4.06981177634
 municipal higher 4.06981177634
 builds unit 4.06905012473
 method unit 4.06905012473
@@ -14192,7 +14190,6 @@ quality retail 4.0664635129
 quality retails 4.0664635129
 retail quality 4.0664635129
 retails quality 4.0664635129
-food fine 4.06539978391
 number village 4.06503525731
 village number 4.06503525731
 provide card 4.06125366977
@@ -14232,6 +14229,7 @@ area urban 4.05022186349
 urban area 4.05022186349
 free fiction 4.04988786765
 science free 4.04988786765
+missile government 4.04941058428
 number phone 4.04935363508
 part entity 4.04810230212
 warm region 4.04668543561
@@ -14348,6 +14346,7 @@ recommended science 4.00861984928
 full size 4.00754926547
 size full 4.00754926547
 credit transport 4.00714626443
+full person 4.00593541217
 map user 4.00367331266
 user map 4.00367331266
 fine retail 4.00311550566
@@ -14404,6 +14403,7 @@ latitude ogle 3.98332025071
 longitude ogle 3.98332025071
 ogle latitude 3.98332025071
 ogle longitude 3.98332025071
+thing cd 3.98274634828
 employee geographical 3.98255509819
 employee region 3.98255509819
 geographical employee 3.98255509819
@@ -14553,6 +14553,7 @@ ed code 3.93663189014
 capital skilled 3.93221920762
 skilled capital 3.93221920762
 country skilled 3.93125128068
+skilled country 3.93125128068
 film max 3.93073922784
 max film 3.93073922784
 cost treatment 3.92887246669
@@ -14561,6 +14562,7 @@ cites number 3.92789012259
 number cites 3.92789012259
 food recommended 3.92758327718
 recommended food 3.92758327718
+time door 3.92670912565
 time award 3.92670912565
 assistant city 3.92647917378
 city assistant 3.92647917378
@@ -14569,6 +14571,7 @@ coffee report 3.92611132701
 future coffee 3.92611132701
 rea agent 3.92611132701
 report coffee 3.92611132701
+town agent 3.92611132701
 hour publisher 3.9214294835
 minute publisher 3.9214294835
 month publisher 3.9214294835
@@ -14691,7 +14694,6 @@ label city 3.86909169163
 local city 3.86909169163
 postcode city 3.86909169163
 pretty city 3.86909169163
-full person 3.86843188842
 address higher 3.86832145977
 higher address 3.86832145977
 diagnosis hospital 3.86799022454
@@ -14857,6 +14859,7 @@ width entity 3.84112785541
 dvd generic 3.84112785541
 generic dvd 3.84112785541
 shopping digital 3.84017458038
+shopping small 3.84017458038
 key location 3.83957693827
 location key 3.83957693827
 location postal 3.83957693827
@@ -14869,8 +14872,8 @@ geocoding city 3.83533128573
 clinic interval 3.83369171228
 food image 3.83369171228
 thing player 3.83264278775
+generic surfing 3.83196785612
 surfing generic 3.83196785612
-skilled country 3.83171560713
 aperture fine 3.83093453028
 breadth fine 3.83093453028
 compatible fine 3.83093453028
@@ -14891,7 +14894,6 @@ funding id 3.83079107132
 id funding 3.83079107132
 hospital records 3.82917097565
 records hospital 3.82917097565
-quality fine 3.8273322936
 accident time 3.8271734521
 contactema time 3.8271734521
 time accident 3.8271734521
@@ -14923,7 +14925,6 @@ ambulance id 3.81808001957
 authorize id 3.81808001957
 id ambulance 3.81808001957
 id authorize 3.81808001957
-giving government 3.81584525102
 account user 3.8154695775
 user account 3.8154695775
 zipcode cart 3.81339524927
@@ -14979,7 +14980,6 @@ size steps 3.79535261123
 size units 3.79535261123
 steps size 3.79535261123
 units size 3.79535261123
-dollar fine 3.79531062055
 reference researcher 3.79489078088
 researcher reference 3.79489078088
 customer exp 3.79402000316
@@ -14997,9 +14997,7 @@ coffee recommended 3.79173390425
 airport country 3.78910943575
 diagnosis card 3.78768859645
 bicycle price 3.78758417818
-lending government 3.78722457308
 credit published 3.78601881033
-quality price 3.78465804635
 currency drinks 3.78280990284
 currency wireless 3.78280990284
 currency wirelessplayerwmaplayer 3.78280990284
@@ -15010,6 +15008,7 @@ wireless currency 3.78280990284
 wirelessplayerwmaplayer currency 3.78280990284
 wma currency 3.78280990284
 wmaplayer currency 3.78280990284
+currency printed 3.78280990284
 text shopping 3.78222723117
 acceptance id 3.78060531415
 answer id 3.78060531415
@@ -15045,7 +15044,6 @@ recommended cd 3.76711860499
 dollar title 3.76633644447
 title dollar 3.76633644447
 car recommended 3.76440931773
-recommended car 3.76440931773
 dvdplayermpplayer price 3.76272519092
 price dvdplayermpplayer 3.76272519092
 measure money 3.76220626592
@@ -15226,6 +15224,7 @@ publication academia 3.70778356061
 password person 3.70756622626
 person password 3.70756622626
 price quality 3.70665553435
+quality price 3.70665553435
 zone id 3.70260280215
 book user 3.70132362809
 user book 3.70132362809
@@ -15265,7 +15264,6 @@ cites academic 3.69354839265
 country geographic 3.69314037722
 dollar fiction 3.69233586303
 science dollar 3.69233586303
-account author 3.69153308543
 geographic map 3.68975773783
 map geographic 3.68975773783
 country airport 3.6895737622
@@ -15350,6 +15348,7 @@ price comedy 3.67322704008
 number account 3.67038064468
 capital luxury 3.66976729701
 luxury capital 3.66976729701
+recommended prepared 3.66927128159
 film thing 3.6684314375
 thing film 3.6684314375
 key language 3.66687485216
@@ -15382,11 +15381,13 @@ price window 3.6606270033
 slr price 3.6606270033
 viewer price 3.6606270033
 window price 3.6606270033
+comedy max 3.66009163789
 max comedy 3.66009163789
 state airport 3.65871589554
 person speed 3.6584294476
 speed person 3.6584294476
 medium recommended 3.65749411382
+recommended car 3.65749411382
 recommended medium 3.65749411382
 cost transport 3.65695990951
 transport cost 3.65695990951
@@ -15485,11 +15486,13 @@ id insurance 3.60657591437
 id zip 3.60657591437
 zip id 3.60657591437
 key digital 3.60650223418
+postal prepared 3.60650223418
 fine short 3.60596816528
 government missile 3.6058039328
 award time 3.60478103077
 taxed title 3.60346620056
 title taxed 3.60346620056
+recommended price 3.60235255962
 film mall 3.6009869165
 geopolitical occupational 3.60070069588
 geopolitical trade 3.60070069588
@@ -15583,7 +15586,6 @@ fellow organization 3.58454216543
 organization fellow 3.58454216543
 investigating medical 3.58405847781
 medical investigating 3.58405847781
-recommended price 3.58349353237
 fine published 3.58300701683
 fine title 3.58300701683
 published fine 3.58300701683
@@ -15595,6 +15597,7 @@ entity id 3.57874170618
 id entity 3.57874170618
 organization works 3.57676481484
 works organization 3.57676481484
+account author 3.57605586801
 academia generic 3.57605286219
 generic academia 3.57605286219
 credit diagnosis 3.57451470514
@@ -15804,6 +15807,7 @@ publisher title 3.49453182901
 title publisher 3.49453182901
 results unit 3.49393540997
 unit results 3.49393540997
+free max 3.49298165206
 max monograph 3.49298165206
 monograph max 3.49298165206
 review size 3.49196046778
@@ -15819,7 +15823,6 @@ researcher appellation 3.49080399875
 researcher gender 3.49080399875
 power purchase 3.48835806139
 purchase power 3.48835806139
-higher data 3.48815442034
 company geographical 3.48652632589
 region company 3.48652632589
 ambulance time 3.48613653427
@@ -15857,7 +15860,6 @@ visited capital 3.47457553696
 visiting capital 3.47457553696
 taxed short 3.47442425556
 city code 3.47428867609
-rea amount 3.47376888609
 amount report 3.47376888609
 max ogle 3.47061383903
 ogle max 3.47061383903
@@ -16033,6 +16035,7 @@ acceptance patient 3.39773603266
 answer patient 3.39773603266
 patient acceptance 3.39773603266
 patient answer 3.39773603266
+region accommodation 3.39759259747
 capital professor 3.39657302496
 professor capital 3.39657302496
 size works 3.39574515253
@@ -16091,6 +16094,7 @@ country visited 3.37407193648
 country visiting 3.37407193648
 visited country 3.37407193648
 visiting country 3.37407193648
+issued government 3.37393514594
 geopolitical profession 3.373237285
 profession geopolitical 3.373237285
 article author 3.37306884584
@@ -16136,7 +16140,6 @@ full destination 3.35636993474
 geographical country 3.35636993474
 credit free 3.35587441867
 government issued 3.35578779923
-issued government 3.35578779923
 class member 3.35435795854
 complement member 3.35435795854
 content member 3.35435795854
@@ -16246,6 +16249,7 @@ municipal appellation 3.30427702997
 municipal gender 3.30427702997
 flight person 3.30393349025
 person flight 3.30393349025
+title price 3.30238934471
 id transport 3.3022418795
 transport id 3.3022418795
 agent message 3.3016204621
@@ -16284,7 +16288,6 @@ village profession 3.29268678508
 distance reference 3.29239044035
 reference distance 3.29239044035
 hospital interval 3.29179793345
-cola unit 3.29144254607
 authorized patient 3.29082082874
 patient authorized 3.29082082874
 healing patient 3.29082082874
@@ -16348,7 +16351,6 @@ price title 3.27729836375
 quote price 3.27729836375
 sample price 3.27729836375
 symbol price 3.27729836375
-title price 3.27729836375
 number place 3.27581342601
 place number 3.27581342601
 time real 3.27463242907
@@ -16383,7 +16385,6 @@ profession time 3.26374411293
 size euro 3.26247862166
 consists medical 3.26213038292
 medical consists 3.26213038292
-degree government 3.25974756702
 location researcher 3.25911582979
 researcher location 3.25911582979
 geographic zone 3.25709034453
@@ -16424,6 +16425,7 @@ geographical unit 3.23309855984
 region unit 3.23309855984
 unit geographical 3.23309855984
 unit region 3.23309855984
+currency car 3.23261282028
 date journal 3.23158264603
 date selected 3.23158264603
 journal date 3.23158264603
@@ -16534,6 +16536,7 @@ directions end 3.21326237321
 driving end 3.21326237321
 end directions 3.21326237321
 end driving 3.21326237321
+title max 3.21263266092
 entity geographical 3.21149630535
 authorizephysician time 3.21050209166
 time authorizephysician 3.21050209166
@@ -16547,7 +16550,6 @@ generic size 3.20698350907
 size generic 3.20698350907
 government profession 3.20587332591
 profession government 3.20587332591
-currency car 3.20459844411
 book taxed 3.2032691926
 taxed book 3.2032691926
 city professor 3.2021136164
@@ -16599,7 +16601,6 @@ country nearby 3.1864449333
 country radius 3.1864449333
 nearby country 3.1864449333
 radius country 3.1864449333
-dollar country 3.1864449333
 region country 3.1864449333
 information card 3.1853440175
 tax card 3.1853440175
@@ -16692,6 +16693,7 @@ patient authorization 3.15957629546
 patient authorizephysician 3.15957629546
 country government 3.15871435669
 government country 3.15871435669
+user author 3.15805595487
 bed measure 3.15648520503
 breakfast measure 3.15648520503
 measure bed 3.15648520503
@@ -16728,6 +16730,7 @@ country latitude 3.14544756143
 country longitude 3.14544756143
 latitude country 3.14544756143
 date arrival 3.14411980478
+thing euro 3.14321102047
 aperture body 3.14147141781
 body aperture 3.14147141781
 body breadth 3.14147141781
@@ -16770,6 +16773,7 @@ unit codes 3.12917111717
 full researcher 3.12895943864
 researcher full 3.12895943864
 person published 3.1263953047
+published person 3.1263953047
 airport treatment 3.12507536404
 treatment airport 3.12507536404
 fine wheel 3.1249566286
@@ -16829,6 +16833,7 @@ tax min 3.11802099266
 tax steps 3.11802099266
 tax units 3.11802099266
 units tax 3.11802099266
+degree government 3.11772856215
 recommended titled 3.11619284189
 recommended written 3.11619284189
 titled recommended 3.11619284189
@@ -16972,10 +16977,12 @@ position update 3.08161787815
 update position 3.08161787815
 author price 3.08160603168
 price author 3.08160603168
+clinic medical 3.08155813728
 medical clinic 3.08155813728
 retail thing 3.08092674222
 retails thing 3.08092674222
 thing retail 3.08092674222
+thing retails 3.08092674222
 author bearing 3.08028709662
 bearing author 3.08028709662
 headed organization 3.07975001339
@@ -16985,8 +16992,6 @@ full capital 3.07971591962
 book information 3.07695274282
 information book 3.07695274282
 accommodation geographical 3.07566450258
-region accommodation 3.07566450258
-title max 3.07512913717
 book fine 3.07177869648
 fine book 3.07177869648
 issued research 3.06955784779
@@ -16994,7 +16999,6 @@ research issued 3.06955784779
 authorized end 3.06887246387
 end authorized 3.06887246387
 currency money 3.06660286885
-currency viewer 3.06660286885
 money currency 3.06660286885
 affiliated surfing 3.06289191108
 affiliation surfing 3.06289191108
@@ -17034,7 +17038,6 @@ length wi 3.0541018766
 wi length 3.0541018766
 postal reference 3.05342379448
 reference postal 3.05342379448
-lending duration 3.05339868644
 entity map 3.05334847169
 map entity 3.05334847169
 drugs person 3.05239472326
@@ -17155,6 +17158,7 @@ missile organization 3.03910802889
 id academic 3.03415866697
 cities time 3.03362432957
 worldwide time 3.03362432957
+sample government 3.03233707092
 part width 3.02984009573
 width part 3.02984009573
 map country 3.02829709963
@@ -17166,7 +17170,6 @@ acknowledgement medical 3.02334352334
 medical acknowledgement 3.02334352334
 power url 3.02269448904
 url power 3.02269448904
-weather unit 3.02269448904
 author fast 3.02257159876
 fast author 3.02257159876
 car part 3.02169692242
@@ -17213,7 +17216,6 @@ academic number 3.00456571333
 number academic 3.00456571333
 capital project 3.00064434863
 project capital 3.00064434863
-free col 2.99948291421
 city geographical 2.99937972083
 city region 2.99937972083
 geographical city 2.99937972083
@@ -17335,6 +17337,7 @@ fine size 2.9610631241
 size fine 2.9610631241
 address digital 2.95995193524
 digital address 2.95995193524
+id viewer 2.95748307623
 person title 2.95647030326
 title person 2.95647030326
 zone time 2.95562181757
@@ -17426,7 +17429,6 @@ check address 2.93649296241
 object price 2.93626144592
 price object 2.93626144592
 author user 2.93566353354
-user author 2.93566353354
 hotel village 2.93434129156
 person transport 2.93248525952
 transport person 2.93248525952
@@ -17439,6 +17441,7 @@ country kilometer 2.9292870938
 kilometer country 2.9292870938
 license state 2.92817657053
 process diagnostic 2.92792220565
+currency cd 2.92719981218
 degree wheeled 2.92680111667
 wheeled degree 2.92680111667
 city employee 2.92647917378
@@ -17488,7 +17491,6 @@ book short 2.9137625754
 shopping url 2.91293092282
 currency expensive 2.91209291979
 expensive currency 2.91209291979
-clinic medical 2.91163313584
 address issued 2.91035925294
 issued address 2.91035925294
 issued vice 2.91035925294
@@ -17558,14 +17560,12 @@ number list 2.89248478646
 power text 2.8919907974
 text power 2.8919907974
 government scholarship 2.89192195175
-scholarship government 2.89192195175
 academia city 2.89034538773
 city academia 2.89034538773
 currency drought 2.88972510676
 currency sensors 2.88972510676
 drought currency 2.88972510676
 sensors currency 2.88972510676
-recommended fine 2.88920218546
 amount irish 2.88880638537
 start total 2.88860479311
 total start 2.88860479311
@@ -17574,7 +17574,6 @@ part language 2.88739583071
 organization research 2.88710493545
 research organization 2.88710493545
 weather front 2.88632204731
-recommended calendar 2.88576310149
 recommended grocery 2.88576310149
 tax unit 2.8850181771
 unit tax 2.8850181771
@@ -17774,6 +17773,7 @@ size taxed 2.82951921439
 taxed size 2.82951921439
 agent sports 2.82924978776
 sports agent 2.82924978776
+recommended credit 2.82917957312
 medical treatment 2.82917097565
 treatment medical 2.82917097565
 author headed 2.82874832962
@@ -17783,6 +17783,7 @@ password date 2.82786045998
 headed researcher 2.82749544631
 researcher headed 2.82749544631
 time symbol 2.8271734521
+time weapon 2.8271734521
 time treatment 2.8271734521
 treatment time 2.8271734521
 digital part 2.82702321273
@@ -17883,7 +17884,9 @@ city project 2.80618494007
 project city 2.80618494007
 family full 2.80522910112
 full family 2.80522910112
+day reference 2.80494444554
 currency slr 2.80356846301
+currency viewer 2.80356846301
 currency window 2.80356846301
 slr currency 2.80356846301
 viewer currency 2.80356846301
@@ -17892,7 +17895,6 @@ exp time 2.80332671015
 time exp 2.80332671015
 center height 2.80069538697
 height center 2.80069538697
-hospital process 2.8001012353
 state distance 2.80007174478
 builds col 2.79981056937
 col builds 2.79981056937
@@ -17918,6 +17920,7 @@ time authorization 2.79546459238
 recommended wheel 2.79449504392
 wheel recommended 2.79449504392
 data issued 2.79322661934
+scholarship government 2.7923862782
 class price 2.79187153658
 complement price 2.79187153658
 content price 2.79187153658
@@ -18182,6 +18185,7 @@ holds fn 2.72238013306
 past fn 2.72238013306
 geographic reference 2.72164179885
 reference geographic 2.72164179885
+time funding 2.72124000735
 academic surfing 2.72068452259
 surfing academic 2.72068452259
 card recommended 2.72042536954
@@ -18203,7 +18207,6 @@ geographical appellation 2.71821449486
 geographical gender 2.71821449486
 region appellation 2.71821449486
 region gender 2.71821449486
-currency bicycle 2.71712199978
 camera price 2.71658340928
 price camera 2.71658340928
 price shutter 2.71658340928
@@ -18222,13 +18225,11 @@ academic month 2.71158231548
 hour academic 2.71158231548
 minute academic 2.71158231548
 month academic 2.71158231548
-published person 2.71135780542
 funding organization 2.71078216281
 organization funding 2.71078216281
 generic year 2.7094838496
 year generic 2.7094838496
 postal city 2.70857414344
-id destination 2.70845552839
 id image 2.70845552839
 image id 2.70845552839
 interval id 2.70845552839
@@ -18253,7 +18254,10 @@ seat vehicle 2.70163183812
 vehicle booking 2.70163183812
 vehicle seat 2.70163183812
 amount medium 2.70117938219
+medium amount 2.70117938219
 unit weather 2.70076639416
+weather unit 2.70076639416
+degree reference 2.70037318209
 account insurance 2.70033386678
 id list 2.69968531877
 list id 2.69968531877
@@ -18481,7 +18485,6 @@ academic destination 2.66691326615
 destination academic 2.66691326615
 amount sandwich 2.66641396403
 sandwich amount 2.66641396403
-currency cd 2.66416540635
 area village 2.66380504215
 city unit 2.6624494626
 unit city 2.6624494626
@@ -18508,9 +18511,11 @@ government national 2.65911974733
 arrival date 2.65869297761
 ballistic government 2.65382544766
 recommended author 2.65372892236
+currency bicycle 2.65299166236
 government degree 2.6520649898
 higher number 2.65147668696
 number higher 2.65147668696
+hospital process 2.64809814185
 auto price 2.64748162725
 designed price 2.64748162725
 designer price 2.64748162725
@@ -18559,6 +18564,7 @@ price grocery 2.63986844314
 ed unit 2.63936584949
 unit ed 2.63936584949
 duration lending 2.63836118717
+lending duration 2.63836118717
 degree street 2.63729449947
 street degree 2.63729449947
 country research 2.63710634231
@@ -18589,6 +18595,7 @@ ed number 2.62945038063
 number ed 2.62945038063
 area district 2.62875809505
 district area 2.62875809505
+recommended fine 2.62616777962
 authorization position 2.62414511255
 position authorization 2.62414511255
 power taxed 2.62328764148
@@ -18619,6 +18626,7 @@ retail price 2.61940434058
 retails price 2.61940434058
 matching time 2.61858683029
 time matching 2.61858683029
+recommended bicycle 2.61844133725
 attribute future 2.61748516308
 decreases future 2.61748516308
 entails future 2.61748516308
@@ -18675,7 +18683,6 @@ publisher thing 2.60131724164
 thing publisher 2.60131724164
 degree researcher 2.59922645864
 researcher degree 2.59922645864
-day reference 2.59849356808
 reference day 2.59849356808
 latitude range 2.5962971276
 longitude range 2.5962971276
@@ -18875,6 +18882,7 @@ country key 2.53949554568
 postal country 2.53949554568
 researcher title 2.53892594837
 title researcher 2.53892594837
+player amount 2.53516943076
 generic number 2.53088654614
 number generic 2.53088654614
 book story 2.52991969773
@@ -18917,7 +18925,6 @@ power list 2.51435326992
 taxed credit 2.51352407525
 person price 2.50862390986
 price person 2.50862390986
-recommended credit 2.50725147824
 recommended shopping 2.50725147824
 date drug 2.50366219147
 date ema 2.50366219147
@@ -18941,7 +18948,6 @@ city check 2.49584481945
 city works 2.49584481945
 works city 2.49584481945
 thing car 2.49461023385
-free max 2.49298165206
 address weather 2.49265819883
 weather address 2.49265819883
 state geographic 2.49235750911
@@ -18962,6 +18968,7 @@ time gps 2.48613653427
 time sunrise 2.48613653427
 position treatment 2.48592897084
 treatment position 2.48592897084
+steps government 2.4841744884
 player bicycle 2.48407070299
 address view 2.48129833666
 view address 2.48129833666
@@ -19057,7 +19064,6 @@ spelling end 2.46118988665
 suggestion end 2.46118988665
 tips end 2.46118988665
 currency stock 2.46088180796
-whiskey price 2.4562685048
 part issued 2.45550243555
 mall fine 2.45242290702
 currency price 2.44984353651
@@ -19120,7 +19126,6 @@ government hotel 2.43249033311
 hotel government 2.43249033311
 part postal 2.43133106317
 postal part 2.43133106317
-quality max 2.43048572632
 card customer 2.43013659183
 city higher 2.42767331681
 higher city 2.42767331681
@@ -19174,7 +19179,6 @@ markers height 2.3985969434
 route height 2.3985969434
 static height 2.3985969434
 amount player 2.39766590701
-player amount 2.39766590701
 cd amount 2.39576637409
 coffee middle 2.39421007004
 coffee string 2.39421007004
@@ -19198,7 +19202,6 @@ publisher recommended 2.38568949836
 recommended publisher 2.38568949836
 customer departure 2.38490733784
 departure customer 2.38490733784
-steps government 2.38463881485
 skilled time 2.38435279631
 airport book 2.38384143824
 book airport 2.38384143824
@@ -19219,6 +19222,7 @@ country file 2.37407193648
 country format 2.37407193648
 file country 2.37407193648
 format country 2.37407193648
+whiskey price 2.3738063446
 accept date 2.3736016509
 date accept 2.3736016509
 patient arrival 2.37328298893
@@ -19235,7 +19239,6 @@ region luxury 2.36145881141
 currency dvdplayermpplayer 2.36134613441
 currency science 2.36134613441
 dvdplayermpplayer currency 2.36134613441
-full data 2.36077511386
 cpr year 2.36058870711
 ice year 2.36058870711
 year cpr 2.36058870711
@@ -19322,7 +19325,6 @@ time password 2.33034186166
 district place 2.32992869879
 place district 2.32992869879
 government skilled 2.32648200929
-skilled government 2.32648200929
 full rating 2.32590465401
 rating full 2.32590465401
 postal id 2.32454054661
@@ -19416,6 +19418,7 @@ rigid max 2.29330930722
 shape max 2.29330930722
 latitude state 2.29258799674
 longitude state 2.29258799674
+area surfing 2.29076163154
 free magnitude 2.29065310964
 magnitude free 2.29065310964
 camera part 2.29015500021
@@ -19426,8 +19429,6 @@ card medical 2.28943772892
 item purchase 2.28895728268
 purchase item 2.28895728268
 amount shopping 2.28790234078
-dollar amount 2.28614188292
-medium amount 2.28614188292
 expensive measure 2.28576822198
 measure expensive 2.28576822198
 district zipcode 2.28501627691
@@ -19605,9 +19606,11 @@ appellation organization 2.228485393
 gender organization 2.228485393
 organization appellation 2.228485393
 organization gender 2.228485393
+scholarship duration 2.228485393
 area spatial 2.22822016547
 area zip 2.22822016547
 spatial area 2.22822016547
+skilled government 2.22694633574
 academic id 2.22680374491
 interval medical 2.22650647319
 user card 2.22475240206
@@ -19658,7 +19661,6 @@ part district 2.20701376491
 date generic 2.20410190961
 generic date 2.20410190961
 bicycle recommended 2.20340383797
-recommended bicycle 2.20340383797
 zone state 2.20220176028
 amount hipping 2.20075039169
 amount review 2.20075039169
@@ -19673,9 +19675,9 @@ max dvd 2.19836090317
 number telephone 2.19811106902
 banker currency 2.19784740212
 currency banker 2.19784740212
-currency printed 2.19784740212
 currency sandwich 2.19784740212
 sandwich currency 2.19784740212
+currency amount 2.19461808899
 postal user 2.19294366383
 time transport 2.19269081554
 transport time 2.19269081554
@@ -19719,6 +19721,7 @@ government academic 2.18748671968
 list date 2.18718852667
 account address 2.18678569935
 address account 2.18678569935
+dollar country 2.1864449333
 geographic location 2.18586684775
 location geographic 2.18586684775
 area slider 2.18515144358
@@ -19731,14 +19734,12 @@ max thing 2.1819145498
 thing max 2.1819145498
 country zone 2.18059220705
 shopping price 2.17889465969
-currency amount 2.17754457563
 corporation occupational 2.17540964184
 corporation trade 2.17540964184
 occupational corporation 2.17540964184
 trade corporation 2.17540964184
 author part 2.17405093288
 part author 2.17405093288
-national government 2.17369292016
 info state 2.17328906837
 saving state 2.17328906837
 state saving 2.17328906837
@@ -19776,7 +19777,6 @@ position password 2.15902238184
 quality car 2.15821890965
 author cheap 2.15583812962
 cheap author 2.15583812962
-degree duration 2.15527830046
 organization profession 2.15375059484
 destination agent 2.15352182311
 day dvdplayermpplayer 2.1530509367
@@ -20063,7 +20063,6 @@ drug time 2.00614359315
 time cycle 2.00614359315
 time drug 2.00614359315
 duration scholarship 2.00609297167
-scholarship duration 2.00609297167
 location state 2.00544738142
 beverage currency 2.00520232418
 currency beverage 2.00520232418
@@ -20129,7 +20128,6 @@ cell amount 1.97126854556
 contact medical 1.9693486337
 medical contact 1.9693486337
 warm geopolitical 1.96908810186
-area surfing 1.96883353665
 price store 1.96825156016
 bearing legal 1.96818844462
 legal bearing 1.96818844462
@@ -20267,6 +20265,7 @@ comedy action 1.91964337447
 project total 1.9171739453
 total project 1.9171739453
 amount physical 1.91577343297
+cycle amount 1.91577343297
 physical amount 1.91577343297
 begin season 1.91511931162
 earlier season 1.91511931162
@@ -20289,6 +20288,7 @@ camera amount 1.91305393162
 shutter amount 1.91305393162
 date location 1.91243163581
 location date 1.91243163581
+quality action 1.91242988423
 monetary project 1.91090506503
 occur project 1.91090506503
 project monetary 1.91090506503
@@ -20416,6 +20416,7 @@ license number 1.86648957793
 number license 1.86648957793
 reference size 1.86612568565
 size reference 1.86612568565
+degree duration 1.86577168327
 date list 1.86526043178
 city season 1.86507862912
 season city 1.86507862912
@@ -20431,7 +20432,6 @@ size label 1.86210142909
 size local 1.86210142909
 size postcode 1.86210142909
 size pretty 1.86210142909
-skilled reference 1.86021702876
 insurance time 1.8595949298
 time health 1.8595949298
 organization skilled 1.85932177894
@@ -20455,6 +20455,7 @@ medical ema 1.85613802325
 duration skilled 1.85569052849
 power zipcode 1.8527694876
 zipcode power 1.8527694876
+national government 1.85176482528
 code time 1.85142099835
 matched time 1.85142099835
 position skilled 1.8504632371
@@ -20476,6 +20477,7 @@ steps organization 1.8470892566
 units organization 1.8470892566
 tax thing 1.84696956925
 thing tax 1.84696956925
+quality max 1.8455232256
 title amount 1.8425127331
 shopping size 1.84214682271
 time hospital 1.8416730218
@@ -20579,6 +20581,7 @@ state pixel 1.78424677762
 telephone number 1.78307356974
 currency urban 1.78280990284
 urban currency 1.78280990284
+generic data 1.7826017788
 fine max 1.78217521836
 max fine 1.78217521836
 pixel total 1.77967042155
@@ -20764,6 +20767,7 @@ trade measure 1.72098360319
 recommended card 1.72042536954
 airport reference 1.71807518383
 reference airport 1.71807518383
+weather duration 1.71426130153
 affiliated person 1.71382768626
 affiliation person 1.71382768626
 person affiliated 1.71382768626
@@ -20873,18 +20877,18 @@ transaction tat 1.70944428523
 transaction upc 1.70944428523
 upc transaction 1.70944428523
 destination id 1.70845552839
+id destination 1.70845552839
 id interval 1.70845552839
 accommodation generic 1.70529605264
 generic accommodation 1.70529605264
 academic country 1.70479314982
 country academic 1.70479314982
 fn interval 1.70467813133
-clinic duration 1.70290143936
 affiliated unit 1.70133674207
 affiliation unit 1.70133674207
 unit affiliated 1.70133674207
 unit affiliation 1.70133674207
-degree reference 1.70037318209
+dollar amount 1.70117938219
 reference degree 1.70037318209
 city currency 1.70009885194
 currency city 1.70009885194
@@ -20921,7 +20925,6 @@ professor government 1.69130015308
 gps vehicle 1.69074352197
 vehicle gps 1.69074352197
 action quality 1.6900374629
-quality action 1.6900374629
 zip time 1.68966992835
 time list 1.68966992835
 end interval 1.68860038275
@@ -20954,7 +20957,6 @@ government accommodation 1.6787001163
 agent object 1.67818381357
 digital height 1.67731297146
 address hospital 1.676370152
-hospital address 1.676370152
 book max 1.6749321292
 max book 1.6749321292
 country language 1.67363221833
@@ -21059,6 +21061,7 @@ report year 1.62362311295
 research year 1.62362311295
 year report 1.62362311295
 year research 1.62362311295
+whiskey amount 1.62031754944
 person treatment 1.61943531598
 treatment person 1.61943531598
 destination issued 1.61889643878
@@ -21083,6 +21086,7 @@ academic city 1.61083734174
 academic hotel 1.61083734174
 city academic 1.61083734174
 hotel academic 1.61083734174
+diagnostic duration 1.61075672577
 max code 1.6103386027
 size title 1.61016085314
 title size 1.61016085314
@@ -21271,7 +21275,6 @@ image address 1.53313726818
 expensive year 1.53051370855
 year expensive 1.53051370855
 mall thing 1.53023414358
-company occupation 1.53006162661
 date account 1.52767907258
 data place 1.52752865867
 place data 1.52752865867
@@ -21285,13 +21288,13 @@ capital measure 1.52603132015
 measure capital 1.52603132015
 headed issued 1.52523733156
 issued headed 1.52523733156
+account amount 1.52475281481
 phone time 1.52461068208
 mall length 1.52358715991
 latitude reference 1.52187228647
 longitude reference 1.52187228647
 reference latitude 1.52187228647
 reference longitude 1.52187228647
-user amount 1.52179040095
 future geopolitical 1.52162912489
 geopolitical future 1.52162912489
 geopolitical video 1.52162912489
@@ -21350,17 +21353,14 @@ person number 1.50642635415
 dvdplayermpplayer time 1.50524535722
 time dvdplayermpplayer 1.50524535722
 cell currency 1.50270198365
-currency euro 1.50270198365
 size recommended 1.50131852248
 funding time 1.49884758602
-time funding 1.49884758602
 desired position 1.49665537743
 position desired 1.49665537743
 government zipcode 1.49628417068
 zipcode government 1.49628417068
 fn weather 1.49427406053
 weather fn 1.49427406053
-full amount 1.49394676803
 thing time 1.49338627335
 time thing 1.49338627335
 mall height 1.49257309161
@@ -21377,13 +21377,13 @@ tax measure 1.48702643022
 time county 1.48613653427
 measure issued 1.48601044776
 amount whiskey 1.48281402569
-whiskey amount 1.48281402569
 clinic control 1.48043728319
 clinic experimental 1.48043728319
 clinic experimenting 1.48043728319
 control clinic 1.48043728319
 experimental clinic 1.48043728319
 experimenting clinic 1.48043728319
+account price 1.48028538591
 price account 1.48028538591
 warm government 1.47979604789
 government zip 1.47979604789
@@ -21394,7 +21394,6 @@ calendar height 1.47876729208
 height calendar 1.47876729208
 end weather 1.47819631196
 weather end 1.47819631196
-position euro 1.47528172664
 amount author 1.4750217694
 author amount 1.4750217694
 day research 1.47497903159
@@ -21402,7 +21401,6 @@ research day 1.47497903159
 phone patient 1.47368488589
 accommodation time 1.47353649749
 time accommodation 1.47353649749
-diagnostic duration 1.47325320202
 duration diagnostic 1.47325320202
 address title 1.47283675791
 title address 1.47283675791
@@ -21410,11 +21408,9 @@ end text 1.47250519988
 text end 1.47250519988
 agent title 1.4717329361
 short recommended 1.46815165855
-area messe 1.46525936277
 price unit 1.46371148798
 unit price 1.46371148798
 max coffee 1.46231451581
-time unit 1.46104555331
 currency grocery 1.46088180796
 currency mpplayerdvdplayer 1.46088180796
 currency reader 1.46088180796
@@ -21498,7 +21494,6 @@ book currency 1.43508031477
 currency book 1.43508031477
 street code 1.43413154962
 person recommended 1.43259047332
-recommended person 1.43259047332
 customer card 1.43013659183
 store thing 1.4297739618
 thing store 1.4297739618
@@ -21508,6 +21503,7 @@ holds price 1.4293014572
 past price 1.4293014572
 price holds 1.4293014572
 price past 1.4293014572
+currency col 1.42641839839
 taxed unit 1.42637212616
 unit taxed 1.42637212616
 publication taxed 1.42512895931
@@ -21541,9 +21537,9 @@ organizations government 1.41566571047
 mall year 1.41503649113
 currency weather 1.41452617227
 weather currency 1.41452617227
+time unit 1.41213595282
 image price 1.41159945546
 price image 1.41159945546
-quality amount 1.41127296036
 latitude unit 1.41074147444
 longitude unit 1.41074147444
 unit latitude 1.41074147444
@@ -21576,7 +21572,6 @@ text day 1.39318494043
 company headed 1.39286721867
 headed company 1.39286721867
 duration weather 1.39233320664
-weather duration 1.39233320664
 academic capital 1.39025925103
 capital academic 1.39025925103
 geographical government 1.38903058396
@@ -21649,6 +21644,7 @@ luxury region 1.36145881141
 amount company 1.36106875334
 company amount 1.36106875334
 data full 1.36077511386
+full data 1.36077511386
 key unit 1.35733048173
 unit key 1.35733048173
 date insurance 1.35711352811
@@ -21657,8 +21653,6 @@ phone state 1.35615312552
 state phone 1.35615312552
 city degree 1.35552353106
 degree city 1.35552353106
-currency funding 1.35494836321
-account amount 1.35482781337
 government season 1.3542651658
 season government 1.3542651658
 phone position 1.35329120226
@@ -21710,6 +21704,7 @@ customer information 1.34105304825
 information customer 1.34105304825
 purchase transaction 1.33949467548
 transaction purchase 1.33949467548
+company occupation 1.33741654866
 occupation company 1.33741654866
 account date 1.33503399464
 height longitude 1.33503181462
@@ -21717,7 +21712,6 @@ latitude height 1.33503181462
 longitude height 1.33503181462
 family part 1.33449453922
 part family 1.33449453922
-cycle amount 1.33081093225
 location size 1.33035073455
 size location 1.33035073455
 accommodation currency 1.32963727468
@@ -21763,7 +21757,6 @@ account recommended 1.31114254499
 cost medical 1.31103998341
 medical cost 1.31103998341
 col currency 1.31094118097
-currency col 1.31094118097
 book full 1.31090991578
 full book 1.31090991578
 duration rating 1.30923759087
@@ -21777,6 +21770,7 @@ holds amount 1.30384388465
 past amount 1.30384388465
 medical number 1.30112451454
 number medical 1.30112451454
+user amount 1.29939797962
 affiliated affiliation 1.2993605349
 affiliation affiliated 1.2993605349
 date title 1.29915695831
@@ -21812,9 +21806,9 @@ hospital geographical 1.29179793345
 hospital region 1.29179793345
 region hospital 1.29179793345
 medical card 1.28943772892
-shopping amount 1.28790234078
+national duration 1.28786394008
+clinic duration 1.28786394008
 duration clinic 1.28786394008
-account price 1.28764030797
 capital destination 1.28694853378
 destination capital 1.28694853378
 amount image 1.28614188292
@@ -21890,6 +21884,7 @@ capital tax 1.26079624593
 coffee currency 1.2599374068
 amount store 1.25783148689
 currency geographic 1.25388143704
+currency academia 1.25286150413
 dollar height 1.25049830441
 height dollar 1.25049830441
 height image 1.25049830441
@@ -22011,6 +22006,7 @@ number string 1.23505264741
 number symbolic 1.23505264741
 string number 1.23505264741
 symbolic number 1.23505264741
+thing amount 1.23309111173
 address geographic 1.23247779005
 geographic address 1.23247779005
 currency speed 1.23041526458
@@ -22033,6 +22029,8 @@ legal destination 1.22534628412
 degree time 1.22450894965
 headed number 1.22263338815
 number headed 1.22263338815
+time country 1.22174684882
+quality amount 1.21862788242
 credit customer 1.21696270052
 agent dvd 1.21645307884
 dvd agent 1.21645307884
@@ -22043,6 +22041,7 @@ cites country 1.2130800598
 country cites 1.2130800598
 currency mall 1.21165320165
 price card 1.21149630535
+physical government 1.21130721196
 address degree 1.21120917329
 address path 1.21120917329
 degree address 1.21120917329
@@ -22062,8 +22061,8 @@ interval position 1.20519256327
 position destination 1.20519256327
 car government 1.20316403865
 government car 1.20316403865
-lending entails 1.2024476638
 country area 1.20086967732
+entity max 1.19836090317
 measure national 1.19830538073
 national measure 1.19830538073
 currency daylight 1.19784740212
@@ -22139,8 +22138,8 @@ price publication 1.17296170394
 publication price 1.17296170394
 area number 1.1702525672
 number area 1.1702525672
+recommended person 1.16955606749
 country time 1.16927942893
-time country 1.16927942893
 map unit 1.16806013057
 unit map 1.16806013057
 medical diagnostic 1.16741172567
@@ -22286,6 +22285,7 @@ country occupation 1.13687082962
 occupation country 1.13687082962
 country measure 1.13602110247
 measure country 1.13602110247
+shopping amount 1.13589924734
 amount credit 1.13589924734
 index transaction 1.13189925607
 page transaction 1.13189925607
@@ -22293,6 +22293,7 @@ search transaction 1.13189925607
 transaction index 1.13189925607
 transaction page 1.13189925607
 transaction search 1.13189925607
+government messe 1.13187274447
 length shopping 1.13126973713
 warm currency 1.13073320627
 currency zip 1.13073320627
@@ -22307,7 +22308,6 @@ story amount 1.12799404925
 issued recommended 1.12782550297
 recommended issued 1.12782550297
 amount thing 1.12617590781
-thing amount 1.12617590781
 date slr 1.12305818925
 date viewer 1.12305818925
 date window 1.12305818925
@@ -22410,7 +22410,6 @@ height speed 1.05565567076
 speed height 1.05565567076
 hospital patient 1.05378163144
 patient hospital 1.05378163144
-time duration 1.05307669224
 headed speed 1.05270838671
 speed headed 1.05270838671
 thing unit 1.05076477171
@@ -22441,8 +22440,8 @@ measure academic 1.0315269346
 corporation entity 1.03053601245
 entity corporation 1.03053601245
 academia currency 1.03046908279
-currency academia 1.03046908279
 zipcode time 1.02808614603
+time duration 1.0270814837
 back size 1.02608247988
 size back 1.02608247988
 currency full 1.02538020612
@@ -22490,6 +22489,7 @@ duration measure 1.00687931007
 measure duration 1.00687931007
 sports area 1.00582774413
 size user 1.005645555
+user size 1.005645555
 citizenry season 1.00549374829
 dependent season 1.00549374829
 gdp season 1.00549374829
@@ -22516,6 +22516,7 @@ season subdivision 1.00549374829
 subdivision season 1.00549374829
 currency season 1.00520232418
 season currency 1.00520232418
+skilled entails 1.00473950584
 amount size 1.0044354095
 size amount 1.0044354095
 day year 1.00291058728
@@ -22558,7 +22559,6 @@ identifier unit 0.983320250709
 unique unit 0.983320250709
 unit identifier 0.983320250709
 unit unique 0.983320250709
-film country 0.981754513697
 geographic length 0.980852894574
 length geographic 0.980852894574
 mall item 0.980834987319
@@ -22630,7 +22630,6 @@ surfing area 0.968833536651
 diagnosis vehicle 0.964666243951
 vehicle diagnosis 0.964666243951
 city time 0.964292308463
-time city 0.964292308463
 data street 0.963627773479
 street data 0.963627773479
 contract government 0.961947743025
@@ -22733,11 +22732,13 @@ measure time 0.911050712989
 time measure 0.911050712989
 date finder 0.909654551142
 finder date 0.909654551142
+full amount 0.908984267308
 player address 0.907695698104
 height identifier 0.907610590884
 height unique 0.907610590884
 identifier height 0.907610590884
 unique height 0.907610590884
+time city 0.905398619409
 date key 0.905153158907
 key date 0.905153158907
 area scholarship 0.903380475162
@@ -22997,7 +22998,6 @@ shopping power 0.78791834325
 care fn 0.783780677724
 fn care 0.783780677724
 data generic 0.782601778803
-generic data 0.782601778803
 book degree 0.781176935784
 degree book 0.781176935784
 headed thing 0.779462749889
@@ -23051,7 +23051,7 @@ time weather 0.751070473018
 weather time 0.751070473018
 height url 0.750069313897
 url height 0.750069313897
-day date 0.749783214364
+hospital duration 0.745970161252
 amount hour 0.745848431528
 amount minute 0.745848431528
 amount month 0.745848431528
@@ -23097,7 +23097,6 @@ organization postcode 0.721192996514
 organization pretty 0.721192996514
 postcode organization 0.721192996514
 pretty organization 0.721192996514
-missile person 0.718970989533
 government license 0.716835245189
 license government 0.716835245189
 coffee member 0.716008245071
@@ -23123,6 +23122,7 @@ power author 0.712003366038
 skilled date 0.711946393186
 area code 0.711899330353
 ogle time 0.711696234684
+time blended 0.711696234684
 time ogle 0.711696234684
 organization government 0.7108563927
 transaction cart 0.709444285227
@@ -23355,6 +23355,7 @@ geopolitical consistent 0.680326870908
 height digital 0.677312971462
 height prepared 0.677312971462
 government organization 0.676909060776
+hospital address 0.676370151998
 issued position 0.67552395242
 position issued 0.67552395242
 duration end 0.673287327258
@@ -23372,7 +23373,6 @@ date academia 0.671886903919
 area government 0.670100987376
 cheap organization 0.669874219229
 organization cheap 0.669874219229
-recommended amount 0.669540065021
 treatment vehicle 0.669210360425
 vehicle treatment 0.669210360425
 arrival position 0.66792680458
@@ -23422,6 +23422,7 @@ geopolitical measure 0.657973805668
 measure geopolitical 0.657973805668
 currency thing 0.657609345901
 thing currency 0.657609345901
+day date 0.656673809972
 citizenry skilled 0.655782496888
 dependent skilled 0.655782496888
 gdp skilled 0.655782496888
@@ -23460,7 +23461,6 @@ family affiliated 0.650624898959
 family affiliation 0.650624898959
 legal skilled 0.648224536612
 skilled legal 0.648224536612
-physical duration 0.647406326769
 date researcher 0.646620145308
 date season 0.646620145308
 researcher date 0.646620145308
@@ -23649,7 +23649,6 @@ normative skilled 0.589702006562
 probability skilled 0.589702006562
 skilled attribute 0.589702006562
 skilled decreases 0.589702006562
-skilled entails 0.589702006562
 skilled increases 0.589702006562
 skilled independent 0.589702006562
 skilled likelihood 0.589702006562
@@ -23724,6 +23723,7 @@ occupation position 0.570655958874
 position occupation 0.570655958874
 currency location 0.570574096545
 location currency 0.570574096545
+scholarship entails 0.570179448298
 number part 0.567935991413
 part number 0.567935991413
 country state 0.567862465086
@@ -23896,7 +23896,6 @@ subdivision people 0.5651709526
 subdivision primary 0.5651709526
 height zip 0.563656189667
 shopping body 0.563287449718
-time date 0.561409253514
 fn monetary 0.560677253939
 fn occur 0.560677253939
 fn purpose 0.560677253939
@@ -24025,6 +24024,7 @@ total legislature 0.535744838666
 total people 0.535744838666
 total primary 0.535744838666
 total subdivision 0.535744838666
+recommended amount 0.532036541271
 medical position 0.531061500279
 position medical 0.531061500279
 thing mall 0.530234143581
@@ -24102,6 +24102,7 @@ subdivision occur 0.52947595839
 subdivision purpose 0.52947595839
 title unit 0.528941859798
 unit title 0.528941859798
+time date 0.528242389579
 legal total 0.52818687839
 total legal 0.52818687839
 agent player 0.528080253036
@@ -24426,7 +24427,6 @@ area gender 0.484711725436
 gender area 0.484711725436
 id person 0.4835518879
 person id 0.4835518879
-time government 0.482047997344
 cycle organization 0.481112575773
 amount year 0.480463538666
 year amount 0.480463538666
@@ -24646,6 +24646,7 @@ purpose day 0.465279245914
 issued size 0.462720847444
 size issued 0.462720847444
 coffee max 0.46231451581
+quality entails 0.461879832951
 address time 0.461523979787
 time address 0.461523979787
 end physician 0.46118988665
@@ -24790,6 +24791,7 @@ end system 0.426608093852
 system end 0.426608093852
 corporation occupation 0.426177556719
 occupation corporation 0.426177556719
+time government 0.424332499488
 government map 0.423527828241
 map government 0.423527828241
 fn total 0.42255622488
@@ -34257,7 +34259,6 @@ wealth action 0.363522625655
 wife action 0.363522625655
 day number 0.361970069761
 medical time 0.361344062268
-time medical 0.361344062268
 action intentional 0.36087669178
 intentional action 0.36087669178
 action motion 0.360215965851
@@ -34683,7 +34684,6 @@ municipal title 0.352398979591
 title municipal 0.352398979591
 position vehicle 0.351992062108
 vehicle position 0.351992062108
-user person 0.351955005117
 front geopolitical 0.351704123447
 control corporation 0.351315921808
 corporation control 0.351315921808
@@ -36959,6 +36959,7 @@ measure address 0.312788435911
 key length 0.312634890204
 length key 0.312634890204
 postal length 0.312634890204
+time medical 0.312434461787
 member proposition 0.312047153681
 proposition member 0.312047153681
 proposition vehicle 0.311397729839
@@ -37420,7 +37421,6 @@ back transaction 0.301037911311
 transaction back 0.301037911311
 date digital 0.300845308467
 digital date 0.300845308467
-diagnostic entails 0.300374084486
 family organization 0.300340192094
 organization family 0.300340192094
 motion process 0.300174838434
@@ -38053,7 +38053,6 @@ end date 0.288535092452
 magnitude vehicle 0.288487225671
 vehicle magnitude 0.288487225671
 duration national 0.287863940082
-national duration 0.287863940082
 generic recommended 0.287125663872
 recommended generic 0.287125663872
 capital price 0.286948533784
@@ -39595,6 +39594,7 @@ normative whiskey 0.2114928034
 probability whiskey 0.2114928034
 whiskey attribute 0.2114928034
 whiskey decreases 0.2114928034
+whiskey entails 0.2114928034
 whiskey increases 0.2114928034
 whiskey independent 0.2114928034
 whiskey likelihood 0.2114928034
@@ -39602,7 +39602,6 @@ whiskey modal 0.2114928034
 whiskey normative 0.2114928034
 whiskey probability 0.2114928034
 government physical 0.211307211962
-physical government 0.211307211962
 item process 0.210537625949
 process item 0.210537625949
 device year 0.210519089552
@@ -39643,7 +39642,6 @@ year dimension 0.208585613667
 year focal 0.208585613667
 year lens 0.208585613667
 year stop 0.208585613667
-currency area 0.208563416495
 back length 0.208290190381
 length back 0.208290190381
 organization process 0.207781234127
@@ -42733,6 +42731,7 @@ short transaction 0.184917638368
 transaction short 0.184917638368
 agent postal 0.184644340608
 postal agent 0.184644340608
+time price 0.183866965152
 citizenry organization 0.183747733926
 dependent organization 0.183747733926
 gdp organization 0.183747733926
@@ -43843,6 +43842,7 @@ string height 0.169258456447
 symbolic height 0.169258456447
 family front 0.169209405575
 front family 0.169209405575
+currency area 0.169035052308
 motion total 0.168712712298
 profit total 0.168712712298
 total motion 0.168712712298
@@ -44542,7 +44542,6 @@ amount capital 0.161490961238
 capital amount 0.161490961238
 corporation medical 0.161023397709
 medical corporation 0.161023397709
-hospital duration 0.161007660531
 citizenry registered 0.160969033641
 dependent registered 0.160969033641
 gdp registered 0.160969033641
@@ -45105,7 +45104,6 @@ affiliation vehicle 0.142114353953
 vehicle affiliated 0.142114353953
 vehicle affiliation 0.142114353953
 price time 0.142046789457
-time price 0.142046789457
 control year 0.141635369742
 experimental year 0.141635369742
 experimenting year 0.141635369742
@@ -50823,6 +50821,7 @@ length system 0.0569947892263
 system length 0.0569947892263
 device path 0.0568394183
 path device 0.0568394183
+currency duration 0.0560188577568
 country duration 0.0556546603851
 duration country 0.0556546603851
 body position 0.0555598178026
@@ -51315,7 +51314,6 @@ height legal 0.0277192570355
 legal height 0.0277192570355
 clinic front 0.0269652785919
 front clinic 0.0269652785919
-currency max 0.0268323401528
 end proposition 0.0265616590129
 proposition end 0.0265616590129
 number quality 0.0263860735297
@@ -52041,6 +52039,7 @@ consistent device -0.011873331784
 device consistent -0.011873331784
 care item -0.0122122520393
 item care -0.0122122520393
+film occupation -0.0125900692578
 address duration -0.0126905040131
 duration address -0.0126905040131
 agent length -0.0130911356671
@@ -52438,7 +52437,6 @@ position total -0.0394546377582
 total position -0.0394546377582
 id part -0.0399009755603
 part id -0.0399009755603
-currency duration -0.0401964575025
 duration currency -0.0401964575025
 length path -0.0404157221794
 path length -0.0404157221794
@@ -53592,6 +53590,7 @@ attribute diagnostic -0.114663414792
 decreases diagnostic -0.114663414792
 diagnostic attribute -0.114663414792
 diagnostic decreases -0.114663414792
+diagnostic entails -0.114663414792
 diagnostic increases -0.114663414792
 diagnostic independent -0.114663414792
 diagnostic likelihood -0.114663414792
@@ -53843,7 +53842,6 @@ normative quality -0.12308266777
 probability quality -0.12308266777
 quality attribute -0.12308266777
 quality decreases -0.12308266777
-quality entails -0.12308266777
 quality increases -0.12308266777
 quality independent -0.12308266777
 quality likelihood -0.12308266777
@@ -54530,7 +54528,6 @@ date profit -0.160734776749
 profit date -0.160734776749
 agent clinic -0.161351514241
 clinic agent -0.161351514241
-food agent -0.161351514241
 device whiskey -0.1615259382
 whiskey device -0.1615259382
 area proposition -0.162013942809
@@ -54593,7 +54590,6 @@ capital end -0.173016133091
 end capital -0.173016133091
 customer whiskey -0.173088115284
 whiskey customer -0.173088115284
-customer amount -0.173289735722
 number recommended -0.174778440445
 recommended number -0.174778440445
 agent fn -0.174887877769
@@ -55068,6 +55064,7 @@ occur consistent -0.193431594789
 purpose consistent -0.193431594789
 measure patient -0.194322867226
 patient measure -0.194322867226
+currency max -0.195560081184
 max currency -0.195560081184
 country title -0.195783671856
 title country -0.195783671856
@@ -55137,7 +55134,6 @@ affiliated municipal -0.212171732299
 affiliation municipal -0.212171732299
 municipal affiliated -0.212171732299
 municipal affiliation -0.212171732299
-time entails -0.212911829689
 area time -0.21313453655
 author family -0.21369589751
 family author -0.21369589751
@@ -55599,6 +55595,7 @@ patient scholarship -0.271058058867
 scholarship patient -0.271058058867
 duration quality -0.272131645123
 quality duration -0.272131645123
+customer amount -0.272825409272
 item organization -0.272921604927
 item scholarship -0.272921604927
 organization item -0.272921604927
@@ -55631,6 +55628,7 @@ educational scholarship -0.278497843506
 scholarship educational -0.278497843506
 area height -0.282564746871
 height area -0.282564746871
+time entails -0.283301157581
 village date -0.284117192255
 coffee vehicle -0.284641178771
 vehicle coffee -0.284641178771
@@ -55697,6 +55695,7 @@ cost state -0.292374503982
 state cost -0.292374503982
 coffee device -0.294347618441
 device coffee -0.294347618441
+recommended date -0.295112199513
 transaction zipcode -0.296093898314
 zipcode transaction -0.296093898314
 coffee time -0.296603088535
@@ -56213,7 +56212,6 @@ consistent duration -0.372866068257
 duration consistent -0.372866068257
 scholarship system -0.373036557763
 system scholarship -0.373036557763
-whiskey entails -0.373469697321
 body coffee -0.374622545609
 coffee body -0.374622545609
 author organization -0.374676587074
@@ -56348,7 +56346,6 @@ normative scholarship -0.429820551702
 probability scholarship -0.429820551702
 scholarship attribute -0.429820551702
 scholarship decreases -0.429820551702
-scholarship entails -0.429820551702
 scholarship increases -0.429820551702
 scholarship independent -0.429820551702
 scholarship likelihood -0.429820551702
@@ -57048,7 +57045,6 @@ government patient -0.540863422678
 patient government -0.540863422678
 item time -0.541439710084
 time item -0.541439710084
-entity action -0.542087360262
 government item -0.542726968738
 item government -0.542726968738
 amount total -0.543467818834
@@ -57158,7 +57154,6 @@ amount clinic -0.613693955159
 clinic amount -0.613693955159
 government height -0.615951365173
 height government -0.615951365173
-recommended date -0.6170402944
 position unit -0.617164522127
 unit position -0.617164522127
 agent time -0.618531183422
@@ -57466,6 +57461,7 @@ length minute -0.673818577958
 length month -0.673818577958
 minute length -0.673818577958
 month length -0.673818577958
+currency process -0.674121377141
 amount geopolitical -0.675978233413
 geopolitical amount -0.675978233413
 speed unit -0.675989591473
@@ -57538,7 +57534,6 @@ minute height -0.704832646259
 month height -0.704832646259
 entity system -0.713460996268
 system entity -0.713460996268
-currency surfing -0.713615923275
 action currency -0.713615923275
 currency action -0.713615923275
 height time -0.71419978007
@@ -57616,7 +57611,6 @@ normative entity -0.770244990207
 probability entity -0.770244990207
 body time -0.773120702374
 time body -0.773120702374
-currency process -0.773657050692
 process currency -0.773657050692
 currency list -0.776157389343
 list currency -0.776157389343
@@ -58156,7 +58150,6 @@ agent accommodation -0.919378723935
 customer quality -0.922701085733
 quality customer -0.922701085733
 state state -0.925101154516
-headed entails -0.926835353148
 action price -0.926946710876
 price action -0.926946710876
 monetary titled -0.929054522464
@@ -58668,6 +58661,7 @@ corporation issued -1.14702635485
 issued corporation -1.14702635485
 front recommended -1.14923231987
 recommended front -1.14923231987
+degree entails -1.15510434082
 amount hospital -1.15558773399
 process recommended -1.15613067922
 recommended process -1.15613067922
@@ -58756,6 +58750,7 @@ area size -1.24111331112
 size area -1.24111331112
 account end -1.2427136868
 end account -1.2427136868
+position science -1.25103662333
 power transaction -1.25118147644
 transaction power -1.25118147644
 date titled -1.25223313123
@@ -58901,7 +58896,6 @@ affiliated issued -1.32790287827
 affiliation issued -1.32790287827
 issued affiliated -1.32790287827
 issued affiliation -1.32790287827
-account duration -1.32857679211
 col year -1.3336724361
 year col -1.3336724361
 end id -1.3364716392
@@ -58942,7 +58936,6 @@ end latitude -1.39679110848
 end longitude -1.39679110848
 latitude end -1.39679110848
 longitude end -1.39679110848
-thing date -1.40141255111
 air number -1.41560598113
 allegiance number -1.41560598113
 ancestor number -1.41560598113
@@ -59135,6 +59128,7 @@ affiliated power -1.42367583749
 affiliation power -1.42367583749
 power affiliated -1.42367583749
 power affiliation -1.42367583749
+account area -1.43128928862
 action number -1.43729117025
 number action -1.43729117025
 organization quality -1.43842539612
@@ -59364,7 +59358,6 @@ city educational -1.73792946214
 educational city -1.73792946214
 country system -1.73851236832
 system country -1.73851236832
-time reference -1.74975172955
 time titled -1.74975172955
 time written -1.74975172955
 titled time -1.74975172955
@@ -59383,8 +59376,10 @@ geographical system -1.77639225199
 system region -1.77639225199
 size time -1.77966354824
 time size -1.77966354824
+company date -1.78800808233
 generic government -1.78869278804
 government generic -1.78869278804
+customer size -1.78897025523
 affiliated data -1.7938290883
 affiliation data -1.7938290883
 data affiliated -1.7938290883
@@ -59877,6 +59872,7 @@ temporally issued -2.38713880313
 front price -2.39512697822
 price front -2.39512697822
 date thing -2.40141255111
+thing date -2.40141255111
 price process -2.40202533757
 process price -2.40202533757
 area price -2.40686581468
@@ -60054,6 +60050,7 @@ primary country -2.72921587194
 subdivision country -2.72921587194
 country legal -2.73677383221
 legal country -2.73677383221
+id amount -2.73893013904
 country total -2.75864198587
 total country -2.75864198587
 country monetary -2.76491086615

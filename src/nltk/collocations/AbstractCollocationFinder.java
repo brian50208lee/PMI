@@ -36,8 +36,18 @@ public abstract class AbstractCollocationFinder {
     	score_result.sort(new Comparator<Object[]>() {
 			@Override
 			public int compare(Object[] o1, Object[] o2) {
-				
-				return -((Double)(o1[1])).compareTo(((Double)(o2[1])));
+				int cmp = -((Double)(o1[1])).compareTo(((Double)(o2[1])));
+				if (cmp == 0 ) {
+					String s1 = ((String[])(o1[0]))[0];
+					String s2 = ((String[])(o2[0]))[0];
+					cmp = s1.compareTo(s2);
+				}
+				if (cmp == 0 ) {
+					String s1 = ((String[])(o1[0]))[1];
+					String s2 = ((String[])(o2[0]))[1];
+					cmp = s1.compareTo(s2);
+				}
+				return cmp;
 			}
 		});
     	return score_result;
